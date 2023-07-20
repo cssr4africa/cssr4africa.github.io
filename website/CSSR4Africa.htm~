@@ -1,0 +1,100 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="description" CONTENT="David Vernon">
+   <META NAME="keywords" CONTENT="human, robot, interaction, robotics, artificial intelligence">
+    <style>
+   a{text-decoration:none}
+   </style>
+<TITLE>Cultural Sensitive Social Robotics for Africa</TITLE>
+
+<SCRIPT language=JavaScript src="button_array.js" type=text/javascript></SCRIPT>
+
+<style type="text/css">
+    A:link {color: #AB0000;}
+    A:visited {color: #AB0000;}
+    A:active {color: #AB0000;}
+    A:hover {text-decoration: underline; color: red;}
+</style>
+
+
+<link rel="icon" type="image/ico" href="http://www.vernon.eu/CSSR4Africa/favicon.ico"/>
+
+
+</HEAD>
+
+<BODY marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" BGCOLOR="FFFFFF">
+
+<TABLE BORDER=0 CELLPADDING=10 ALIGN=CENTER width=1000   BGCOLOR="FFFFFF">
+<TR>
+<TD>
+
+<P>&nbsp;<P>
+
+
+ <CENTER>
+<font size=6 face="Arial" color="#AB0000">
+
+  <DIV ID="top">Culturally Sensitive Social Robotics for Africa</DIV>
+<!-- ================================================================= --> 
+</STRONG>
+ </CENTER>
+ <P>
+<CENTER>
+   <A HREF="index.htm"><IMG SRC="./CSSR4Africa/CSSRforAfrica_logo_red.png" width = 125></A>
+</CENTER>
+<P>
+<font size=2 face="Arial" color="#000000"> 
+
+
+  <CENTER>
+<IMG SRC="./CSSR4Africa/CSSR_Scenario.png" width = 600>    
+</CENTER>
+<font size=2 face="Arial" color="#000000">
+  <P align="left">
+<P>&nbsp;<P>
+    This is a three-year research project to develop culturally sensitive social robotics for Africa (CSSR4Africa). The objectives of the project are
+  (i) to identify the verbal and non-verbal social and cultural norms of human interaction that are prevalent in countries in Africa,
+    (ii) to encapsulate them in the behavioural patterns of social robots so that they  can engage with African people in a manner that is consistent with their expectations of acceptable social interaction, and
+    (iii) to demonstrate these culturally-sensitive social robot behaviours in two use cases: one for giving a tour of a university laboratory, and one for assisting and giving directions to visitors at the reception of a university.
+    In order to ensure that the project objectives can be achieved in the time available, we restrict the scope of the project to the cultures and social practices that are prevalent in Rwanda and South Africa.
+      
+    <CENTER>
+      <font size=2 face="Arial" color="#AB0000">
+
+       <P>&nbsp;<P>
+
+       
+    <A HREF="https://www.africa.engineering.cmu.edu/"><IMG SRC="./CSSR4Africa/CMU_Africa_Horiz_SECONDARY_Red_and_Gray.png" width = 300> </A><BR>
+    <A HREF="https://www.wits.ac.za/csam/"><IMG SRC="./CSSR4Africa/Wits_Centenary_Logo_Large.png" width = 300> </A> <BR>
+<P>
+<P>&nbsp;<P>
+	  <font size=2 face="Arial" color="#000000">
+    Project funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme
+</CENTER>
+  <P>
+    <HR>
+    <CENTER>
+      <STRONG>This website is under construction</STRONG>
+      <BR>
+    <strong>Please check back again soon </strong>
+    </CENTER>
+      
+<!-- <A HREF="#top">Back to Top</A> -->
+  
+<HR>
+
+  
+<CENTER>
+<font size=2 face="Arial" color="#000000"> 
+<A HREF="http://www.CSSR4Africa.org">www.CSSR4Africa.org</A>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+
+
+</BODY>
+  
+</HTML>
