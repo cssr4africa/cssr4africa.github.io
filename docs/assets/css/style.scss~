@@ -6,19 +6,19 @@
 .but {
     border: 1px  #AEB6BF;
     padding: 10px;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .button {
-  background-color: white;
-  border: 1px  #AEB6BF;
-  color: black;
+  background-color: #EEEEEE;
+  border: 1px #444444;
+  color: #444444;
   padding: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 10px;
+  font-size: 14px;
   margin: 2px 1px;
-  border-radius: 8px;
+  border-radius: 4px;
 }
  
