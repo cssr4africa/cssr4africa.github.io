@@ -1,6 +1,6 @@
 # Deliverables
 
-![Deliverables](https://cssr4afreica.github.io/images/CSSRforAfrica_logo_red.png)
+![Deliverables](https://cssr4africa.github.io/images/CSSRforAfrica_logo_red.png)
 
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
@@ -12,9 +12,11 @@
 </tr>
 <tr>
 <td>D3.3</td>
-<td><a href="https://cssr4afrieca.github.io/deliverables/CSSR4Africa_Deliverable_D1.1.pdf">Software Installation Manual</a></td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
 <td>CMU-Africa</td>
 <td>01/10/2023</td>
 </tr>
 </tbody>
 </table>
+
+<strong> This website is under construction. Please check back again soon.</strong>
