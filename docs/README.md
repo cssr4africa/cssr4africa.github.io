@@ -7,6 +7,6 @@ Based on ethnographic research to acquire cultural knowledge about acceptable mo
 
 <P>
 
-<small>This project is funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme.</small>
+
 
  

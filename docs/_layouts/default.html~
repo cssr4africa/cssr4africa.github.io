@@ -22,17 +22,13 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
        
 	<hr>
-        <ul>
+        <ul style="list-style-type: none">
 	    <li><a class="but" href='https://cssr4africa.github.io/about'>About</a></li>
-            <li><a class="button" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
+            <li><a class="but" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/news'>News</a></li>
-        </ul>
-	<ul>
 	    <li><a class="but" href='https://cssr4africa.github.io/meetings'>Meetings</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/workplan'>Workplan</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/deliverables'>Deliverables</a></li>
-	</ul>
-        <ul>
 	    <li><a class="but" href='https://cssr4africa.github.io/platform'>Platform</a></li>
 	    <li><a class="but" href='https://cssr4africa.github.io/references'>References</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/publications'>Publications</a></li>
@@ -69,7 +65,7 @@
         <!-- <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
         {% endif %}
 	<strong> This website is under construction. Please check back again soon.</strong>
-        <p><small>Hosted on GitHub Pages &mdash; Jekyll minimal theme</small></p>
+        <p><small>This project is funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme.</small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
