@@ -23,8 +23,8 @@
        
 	<hr>
         <ul>
-	    <li><a class="but btn-{{include.button_class}} active" href='https://cssr4africa.github.io/about'>About</a></li>
-            <li><a class="but" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
+	    <li><a class="but" href='https://cssr4africa.github.io/about'>About</a></li>
+            <li><a class="button" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/news'>News</a></li>
         </ul>
 	<ul>
