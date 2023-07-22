@@ -22,7 +22,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
        
 	<hr>
-        <ul style="list-style-type: none">
+       <!--  <ul style="list-style-type: none">
 	    <li><a class="button" href='https://cssr4africa.github.io/about'>About</a></li>
             <li><a class="button" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
             <li><a class="button" href='https://cssr4africa.github.io/news'>News</a></li>
@@ -33,6 +33,18 @@
 	    <li><a class="button" href='https://cssr4africa.github.io/references'>References</a></li>
             <li><a class="button" href='https://cssr4africa.github.io/publications'>Publications</a></li>
         </ul>
+        -->
+	<a class="button" href='https://cssr4africa.github.io/about'>About</a>
+        <a class="button" href='https://cssr4africa.github.io/consortium'>Consortium</a>
+        <a class="button" href='https://cssr4africa.github.io/news'>News</a>
+	<BR>
+	<a class="button" href='https://cssr4africa.github.io/meetings'>Meetings</a>
+        <a class="button" href='https://cssr4africa.github.io/workplan'>Workplan</a>
+        <a class="button" href='https://cssr4africa.github.io/deliverables'>Deliverables</a>
+	<BR>
+	<a class="button" href='https://cssr4africa.github.io/platform'>Platform</a>
+	<a class="button" href='https://cssr4africa.github.io/references'>References</a>
+        <a class="button" href='https://cssr4africa.github.io/publications'>Publications</a>
 	<hr>        
         <!--
 	{% if site.github.is_project_page %}
