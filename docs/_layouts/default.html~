@@ -64,7 +64,6 @@
         <p>The CSSR4Africa project started on 1 July 2023.</p>
         <!-- <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
         {% endif %}
-	<strong> This website is under construction. Please check back again soon.</strong>
         <p><small>This project is funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme.</small></p>
       </footer>
     </div>
