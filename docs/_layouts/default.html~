@@ -7,7 +7,7 @@
 {% seo %}
 
     <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=828fc2a975f0da9675d6da4b7908cfe5399fb776' }}">
 
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -23,16 +23,20 @@
        
 	<hr>
         <ul>
-	    <li><a href='https://cssr4africa.github.io/methodology'>Goals & Methodology</a></li>
-            <li><a class="but" href='https://cssr4africa.github.io/publications'>Publications</a></li>
-            <li><a class="but" href='https://cssr4africa.github.io/platform'>Platform</a></li>
+	    <li><a class="but btn-{{include.button_class}} active" href='https://cssr4africa.github.io/about'>About</a></li>
+            <li><a class="but" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
+            <li><a class="but" href='https://cssr4africa.github.io/news'>News</a></li>
         </ul>
 	<ul>
-            <li><a class="but" href='https://cssr4africa.github.io/consortium'>Consortium</a></li>
+	    <li><a class="but" href='https://cssr4africa.github.io/meetings'>Meetings</a></li>
+            <li><a class="but" href='https://cssr4africa.github.io/workplan'>Workplan</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/deliverables'>Deliverables</a></li>
-            <li><a class="but" href='https://cssr4africa.github.io/about'>About</a></li>
- 
 	</ul>
+        <ul>
+	    <li><a class="but" href='https://cssr4africa.github.io/platform'>Platform</a></li>
+	    <li><a class="but" href='https://cssr4africa.github.io/references'>References</a></li>
+            <li><a class="but" href='https://cssr4africa.github.io/publications'>Publications</a></li>
+        </ul>
 	<hr>        
         <!--
 	{% if site.github.is_project_page %}

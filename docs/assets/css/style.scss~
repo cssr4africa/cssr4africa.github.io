@@ -6,7 +6,3 @@
 .but {
 padding-top:15px;
 }
-
-.button {
- padding-top:15px;  !important;
-}
