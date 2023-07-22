@@ -1,5 +1,5 @@
-# Open Source DREAM Project
+# CSSR4Africa Project
 
-![DREAM-Logo](/images/dream-sign1.jpg)
+![CSSR4Africa-Logo](/images/CSSRforAfrica_logo_red)
 
-A complete system for conducting Robot Enhanced Therapy for children with Autism Spectrum Disorder
+Culturally Sensitive Social Robotics for Africa

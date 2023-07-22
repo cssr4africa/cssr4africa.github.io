@@ -15,14 +15,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"><img src="https://cssr4africa.github.io/images/CSSRforAfrica_logo_red.png" alt="CSSR4Africa Project"></a> <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>-->
+        <a href="{{ site.github.url }}"><img src="https://cssr4africa.github.io/images/dream-eu-logo.png" alt="DREAM Project"></a> <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>-->
 
 	
         <p>{{ site.description | default: site.github.project_tagline }}</p>
        
 	<hr>
         <ul>
-	    <li><a class="but" href='https://cssr4africa.github.io/methodology'>Goals & Methodology</a></li>
+	    <li><a href='https://cssr4africa.github.io/methodology'>Goals & Methodology</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/publications'>Publications</a></li>
             <li><a class="but" href='https://cssr4africa.github.io/platform'>Platform</a></li>
         </ul>
@@ -43,7 +43,6 @@
         {% endif %}
 	!-->
 
-        <!--
         {% if site.show_downloads %}
           <ul>
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -51,7 +50,6 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}
-        !-->
       </header>
       <section>
 
@@ -63,7 +61,7 @@
         <p>The CSSR4Africa project started on 1 July 2023.</p>
         <!-- <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Jekyll minimal theme</small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
