@@ -1,4 +1,4 @@
-#The CSSR4Africa Project
+# The CSSR4Africa Project
 
 ![CSSR4Africa-Logo](/images/CSSR_Scenario.png)
 
