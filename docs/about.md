@@ -13,17 +13,13 @@
  Reference: B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, F. Pecora, A. Saffioti, and A. Sgorbissa, "Paving the way for culturally competent robots: A position paper", in 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal, 2017, pp. 553-560.
     
   ## Consortium
-
     <A HREF="https://www.africa.engineering.cmu.edu/"><IMG SRC="CMU_Africa_Horiz_SECONDARY_Red_and_Gray.png" width = 300> </A><BR>
     <A HREF="https://www.wits.ac.za/csam/"><IMG SRC="Wits_Centenary_Logo_Large.png" width = 300> </A> <BR>
 
 ## Funding
+This project is funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme
 
-    This project is funded by the <A HREF="http://www.afretec.org">African Engineering and Technology Network (Afretec)</A> Inclusive Digital Transformation Research Grant Programme
-</CENTER>
-  <P>
-    <HR>
-    <CENTER>
-      <STRONG>This website is under construction</STRONG>
-      <BR>
-    <strong>Please check back again soon </strong>
+## Disclaimer
+This website is under construction.
+
+Please check back again soon.
