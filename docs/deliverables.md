@@ -1,7 +1,5 @@
 # Deliverables
 
-![Deliverables](https://cssr4africa.github.io/images/CSSRforAfrica_logo_red.png)
-
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
 <tr>
