@@ -1,6 +1,6 @@
 # Reference Material
 
-C. Bartneck, T. Belpaeme, F. Eyssel, T. Kanda, M. Keijsers, and S. Sabanovic, Human-Robot Interaction Ð An Introduction. Cambridge University Press, 2020. Available at: [link](https://www.human-robot-interaction.org/).
+C. Bartneck, T. Belpaeme, F. Eyssel, T. Kanda, M. Keijsers, and S. Sabanovic, Human-Robot Interaction - An Introduction. Cambridge University Press, 2020. Available at: [link](https://www.human-robot-interaction.org/).
 
 B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, and F. Pecora, "The CARESSES EU-Japan project: Making assistive robots culturally competent", in arXiv 1708.06276, 2017. Available at: [link](https://www.researchgate.net/publication/319208231_The_CARESSES_EU-Japan_project_making_assistive_robots_culturally_competent).
 
