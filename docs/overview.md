@@ -1,4 +1,4 @@
-# About the CSSR4Africa Project
+# Overview of the CSSR4Africa Project
 
  CSSR4Africa is a three-year research project to develop culturally sensitive social robotics for Africa (CSSR4Africa). The objectives of the project are
   (i) to identify the verbal and non-verbal social and cultural norms of human interaction that are prevalent in countries in Africa,
