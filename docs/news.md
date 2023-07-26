@@ -5,7 +5,7 @@ The Afretec Inclusive Digital Transformation (IDT) Research Grants kick-off meet
 
 The CSSR4Africa slides are [here](https://cssr4africa.github.io/resources/2023-07-20_CSSR4Africa.pdf).
 
-**26 July 2023**
+**26 July 2023**  
 Version 1.6 of the CSSR4Arica work plan is now available [here](https://cssr4africa.github.io/CSSR4Africa_Work_Plan.pdf).
 
 
