@@ -8,11 +8,13 @@
 <th>Lead</th>
 <th style="min-width: 150px;">Due Date</th>
 </tr>
+<!-- 
 <tr>
 <td>D3.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
 <td>CMU-Africa</td>
 <td>01/10/2023</td>
 </tr>
+-->
 </tbody>
 </table>
