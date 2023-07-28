@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <td></td>
-<td>Coming soon</td>
+<td>Coming soon ...</td>
 <td></td>
 <td></td>
 </tr>
