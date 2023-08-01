@@ -13,6 +13,6 @@ Version 1.1 of Deliverable D3.3 Software Installation Manual is available [here]
 **1 August 2023**  
 Version 1.8 of the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version has revised task start dates and durations.
 
-Added a [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki) as a forum for exchanging information among the partners in the project consortium. The majority of the material available there is concerned with the effective operation of the project, e.g., project meetings, project reports, references, and templates. Removed this material from the website, which now focusses on providing information to others.
+There is now a [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki) to provide a forum for exchanging information among the partners in the project consortium. The majority of the material available there is concerned with the effective operation of the project, e.g., project meetings, project reports, references, and templates. Removed this material from the website, which now focusses on providing information to others.
 
 
