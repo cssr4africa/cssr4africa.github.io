@@ -8,7 +8,7 @@ The CSSR4Africa slides are [here](https://cssr4africa.github.io/meetings/2023-07
 The CSSR4Africa work plan is now available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).
 
 **31 July 2023**  
-Version 1.1 of Deliverable D3.3 Software Installation Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
+Deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
 
 **1 August 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version has revised task start dates and durations.
