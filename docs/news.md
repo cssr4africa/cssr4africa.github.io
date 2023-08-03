@@ -15,4 +15,5 @@ A new version the CSSR4Africa work plan is available [here](https://cssr4africa.
 
 There is now a [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki) to provide a forum for exchanging information among the partners in the project consortium. The majority of the material available there is concerned with the effective operation of the project, e.g., project meetings, project reports, references, and templates. Removed this material from the website, which now focusses on providing information to others.
 
-
+**3 August 2023**  
+Deliverable D7.1 Online Presence is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D7.1.pdf).
