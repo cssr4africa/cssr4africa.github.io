@@ -21,4 +21,4 @@ Deliverable D7.1 Online Presence is now available [here](https://cssr4africa.git
 **6  August 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version has provisionally assigned responsibility for some tasks to CMU-Africa.
 
-A first draft of the CSSR4Africa statement of work (SoW) is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_SOW-Planner-IDT_Reseach_Grant.xls). 
+A first draft of the CSSR4Africa statement of work (SoW) is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_SOW-Planner-IDT_Reseach_Grant.xlsx). 
