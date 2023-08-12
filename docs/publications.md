@@ -4,4 +4,4 @@ D. Vernon, 2023. "Culturally Competent Social Robotics for Africa: A Case for Di
 
 P. Zantou and D. Vernon, "Culturally-Sensitive Human-Robot Interaction: A Case Study with the Pepper Humanoid Robot", Proc. IEEE Africon, Nairobi, Kenya, September, 2023. Available [here](https://cssr4africa.github.io/publications/2023_Zantou_Vernon_Africon.pdf).
 
-P. Zantou and D. Vernon, "Inclusion Drives Sustainable Development: The Case of Social Robotics for Africa", Poster Presentation, ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies - COMPASS, August 2023. Video available [here](https://cssr4africa.github.io/videos/COMPASS_2023.mp4).
+P. Zantou and D. Vernon, "Inclusion Drives Sustainable Development: The Case of Social Robotics for Africa", Poster Presentation, ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies - COMPASS, August 2023. Available [here](https://cssr4africa.github.io/publications/2023_Zantou_Vernon_COMPASS.pdf). Video available [here](https://cssr4africa.github.io/videos/COMPASS_2023.mp4).
