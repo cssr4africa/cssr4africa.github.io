@@ -1,6 +1,6 @@
 # News
 
-**11 September**  
+**11 September 2023**  
 Workshop announcement:  Culturally Sensitive Social Robotics for All [CSSR4All](http://www.cssr4all.org) at the 21st International Conference on Advanced Robotics, ICAR 2023, Abu Dhabi, UAE, 5th December, 2 pm - 6 pm. 
 
 The goal of this workshop is to acquire cultural knowledge about acceptable modes of communication in different regions, focussing mainly on MENA and sub-Saharan Africa, so that we can equip robots with the ability to interact sensitively and politely with people in those regions using spatial, non-verbal, and verbal modes of communication.
