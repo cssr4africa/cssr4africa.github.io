@@ -5,6 +5,9 @@ Workshop announcement:  Culturally Sensitive Social Robotics for All [CSSR4All](
 
 The goal of this workshop is to acquire cultural knowledge about acceptable modes of communication in different regions, focussing mainly on MENA and sub-Saharan Africa, so that we can equip robots with the ability to interact sensitively and politely with people in those regions using spatial, non-verbal, and verbal modes of communication.
 
+**11 September 2023**  
+A new version of Deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
+
 **15  August 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.0, assigns responsibility for all tasks to reflect the estimated effort, balanced between partners on the basis of funding.
 
