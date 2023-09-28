@@ -1,5 +1,8 @@
 # News
 
+**28  September 2023**  
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.4, specifies new unit test requirements for deliverables in work packages 4 and 5.
+
 **11 September 2023**  
 Workshop announcement:  Culturally Sensitive Social Robotics for All [CSSR4All](http://www.cssr4all.org) at the 21st International Conference on Advanced Robotics, ICAR 2023, Abu Dhabi, UAE, 5th December, 2 pm - 6 pm. 
 
