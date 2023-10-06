@@ -5,7 +5,7 @@ While technological invention creates new ways of doing things, it is *innovatio
 The  need for technology to be culturally competent is perhaps best exemplified by the field of social robotics, a field that is growing quickly.<sup>1</sup>
 Social robots serve people in a variety of ways: they operate in everyday environments, often in open spaces such as hospitals, exhibition centres, and airports, providing  assistance to people, typically in the form of advice, guidance, or information.  
  
-![CSSR4Africa-Scenario](https://cssr4africa.github.io/images/CSSR_Scenario.png)
+![CSSR4Africa-Scenario](https://cssr4africa.github.io/images/CSSR_Scenario2.png)
    
 Based on ethnographic research to acquire cultural knowledge about acceptable modes of communication, the CSSR4Africa project will equip   robots with the ability to interact sensitively and politely with people in Africa using spatial, non-verbal, and verbal modes of communication. 
 
