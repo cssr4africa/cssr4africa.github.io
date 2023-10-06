@@ -13,9 +13,10 @@
  
 Cultural competence, on the other hand,  also involves the ability to perceive and learn the cultural preferences of individuals, and adapt its behavior accordingly. Thus, a culturally competent robot can avoid stereotypical behaviour (the robot's left think bubble) that the general cultural preferences might give generate. 
  
- In either case, cultural knowledge allows the robot to interact in an empathetic manner.  
- 
  CSSR4Africa is concerned with cultural sensitivity, not cultural competence. 
+ 
+
+ In either case, cultural knowledge allows the robot to interact in an empathetic manner.  
  
  (The empathy symbol courtesy of [www.empathysymbol.com](https://www.empathysymbol.com).)
  
