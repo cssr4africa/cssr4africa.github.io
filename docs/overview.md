@@ -1,17 +1,15 @@
 # Overview of the  Project
 
- CSSR4Africa is a three-year research project to develop culturally sensitive social robotics for Africa. 
- 
- The objectives are as follows.
- 1. Identify the verbal and non-verbal social and cultural norms of human interaction that are prevalent in countries in Africa,
-  2. Encapsulate them in the behavioural patterns of social robots so that they  can engage with African people in a manner that is consistent with their expectations of acceptable social interaction, and
+ CSSR4Africa is a three-year research project to develop culturally sensitive social robotics for Africa. It has the following objectives.
+ 1. Identify the verbal and non-verbal social and cultural norms of human interaction that are prevalent in countries in Africa.
+  2. Encapsulate them in the behavioural patterns of social robots so that they  can engage with African people in a manner that is consistent with their expectations of acceptable social interaction.
   3. Demonstrate these culturally-sensitive social robot behaviours in two use cases: one for giving a tour of a university laboratory, and one for assisting and giving directions to visitors at the reception of a university.
  
  In order to ensure that the project objectives can be achieved in the time available, we restrict the scope of the project to the cultures and social practices that are prevalent in Rwanda and South Africa.
     
 ![CSSR4Africa Scenario](/images/CSSR_Scenario2.png)
 
- The figure above, based on (Bruno et al., 2017), shows a culturally competent robot. This differs from a culturally sensitivity which is  the ability to exhibit behavior based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  
+ The figure above, based on (Bruno et al., 2017), shows a culturally competent robot. This differs from culturally sensitivity: the ability to exhibit behaviour based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  
  
 Cultural competence, on the other hand,  also involves the ability to perceive and learn the cultural preferences of individuals, and adapt its behavior accordingly. Thus, a culturally competent robot can avoid stereotypical behaviour (the robot's left think bubble) that the general cultural preferences might give generate. 
  
