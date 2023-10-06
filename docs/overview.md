@@ -17,7 +17,7 @@ Cultural competence, on the other hand,  also involves the ability to perceive a
  
  CSSR4Africa is concerned with cultural sensitivity, not cultural competence. 
  
- (The empathy symbol courtesy of [https://www.empathysymbol.com](www.empathysymbol.com).)
+ (The empathy symbol courtesy of [www.empathysymbol.com](https://www.empathysymbol.com).)
  
  Reference: B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, F. Pecora, A. Saffioti, and A. Sgorbissa, "Paving the way for culturally competent robots: A position paper", in 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal, 2017, pp. 553-560.
     
