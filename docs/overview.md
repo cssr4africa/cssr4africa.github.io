@@ -8,7 +8,7 @@
     
 ![CSSR4Africa Scenario](/images/CSSR_Scenario2.png)
 
- The figure above shows the rationale for a <strong> culturally sensitive </strong> robot. It is based on Fig. 1 in (Bruno et al., 2017) which explains the rationale for a  <strong>culturally competent</strong> robot. Sensitivity  entails the ability to exhibit behavior based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  On the other hand, competence entails the ability of learn the specific cultural preferences of individuals and adapt its behavior accordingly, avoiding stereotypical behaviour based on general cultural preferences (the robot's left think bubble).
+ The figure above, based on (Bruno et al., 2017), shows a <strong>culturally competent</strong> robot. Cultural sensitivity is  the ability to exhibit behavior based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  On the other hand, cultural competence also involves the ability to perceive and learn the cultural preferences of individuals, and adapt its behavior accordingly. Thus, a culturally competent robot can avoid stereotypical behaviour (the robot's left think bubble) that the general cultural preferences might give generate.
  
  Reference: B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, F. Pecora, A. Saffioti, and A. Sgorbissa, "Paving the way for culturally competent robots: A position paper", in 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal, 2017, pp. 553-560.
     
