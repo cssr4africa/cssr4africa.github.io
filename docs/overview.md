@@ -9,7 +9,7 @@
     
 ![CSSR4Africa Scenario](/images/CSSR_Scenario3A.png)
 
- The figure above, based on (Bruno et al., 2017), shows a culturally competent robot. This involved cultural awareness and cultural sensitivity: the ability to exhibit behaviour based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  Cultural competence also involves the ability to infer the cultural preferences of an individual and avoid stereotypical interaction (the robot's left think bubble), allowing  the robot to interact in an empathetic manner.  
+ The figure above, based on (Bruno et al., 2017), shows a culturally competent robot. This involves cultural awareness and cultural sensitivity: the ability to exhibit behaviour based on the general cultural preferences of a population using  ethnographic data stored in a cultural knowledge base (the robot's right think bubble).  Cultural competence also involves the ability to infer the cultural preferences of an individual and avoid stereotypical interaction (the robot's left think bubble), allowing  the robot to interact in an empathetic manner.  
  
 CSSR4Africa focusses on cultural sensitivity. We plan to extend the work to cultural competence in a follow-on project.
  
