@@ -1,5 +1,8 @@
 # News
 
+**23  October 2023**  
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.5, specifies new names for the ROS nodes in Deliverables D4.3.1 and D4.3.1
+
 **28  September 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.4, specifies new unit test requirements for deliverables in work packages 4 and 5.
 
