@@ -1,7 +1,10 @@
 # News
 
+**25  October 2023**  
+The first draft of Deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  This first draft of the deliverable just addresses the survey questionnaire, so that it can be validated before conducting the survey.
+
 **23  October 2023**  
-A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.5, specifies new names for the ROS nodes in Deliverables D4.3.1 and D4.3.1
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.5, specifies new names for the ROS nodes in Deliverables D4.3.1 and D4.3.1, and includes the creation of a ROS node in  Task 5.4.1 Cultural Knowledge Ontology & Knowledge Base.
 
 **28  September 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.4, specifies new unit test requirements for deliverables in work packages 4 and 5.
