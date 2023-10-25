@@ -9,7 +9,7 @@
 <th style="min-width: 150px;">Due Date</th>
 </tr>
 <tr>
-<td>D3.3</td>
+<td>D1.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge</a></td>
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
