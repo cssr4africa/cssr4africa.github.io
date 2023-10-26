@@ -4,10 +4,10 @@
 <tbody>
 <tr>
 <th>Number</th>
-<th  style="min-width: 175px;">Name</th>
-<th  style="min-width: 75px;">Lead</th>
-<th style="min-width: 75px;">Due Date</th>
-<th style="min-width: 75px;">Submission Date</th>
+<th  style="min-width: 190px;">Name</th>
+<th  style="min-width: 70px;">Lead</th>
+<th style="min-width: 70px;">Due Date</th>
+<th style="min-width: 70px;">Submission Date</th>
 </tr>
 <tr>
 <td>D1.2</td>
