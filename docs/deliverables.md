@@ -7,7 +7,7 @@
 <th>Name</th>
 <th>Lead</th>
 <th style="min-width: 150px;">Due Date</th>
-<th>Submission Date</th>
+<th>style="min-width: 150px;">Submission Date</th>
 </tr>
 <tr>
 <td>D1.2</td>
