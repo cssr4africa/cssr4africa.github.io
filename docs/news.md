@@ -1,5 +1,8 @@
 # News
 
+**26  October 2023**  
+The wiki has a new page, [Resources](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Resources), with links to the various images that are use in CSSR4Africa document, web pages, and wiki pages.
+
 **25  October 2023**  
 The first draft of Deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  This first draft of the deliverable just addresses the survey questionnaire, so that it can be validated before conducting the survey.
 
