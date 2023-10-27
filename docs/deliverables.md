@@ -173,7 +173,7 @@
 
 <tr>
 <td>D3.4</td>
-<td>System Integration \& Quality Assurance Manual </td>
+<td>System Integration and Quality Assurance Manual </td>
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
 <td>/td>
@@ -184,7 +184,7 @@
 <td>System Integration and Quality Assurance </td>
 <td>CMU-Africa</td>
 <td>30/06/2024</td>
-<td>/td>
+<td></td>
 </tr>
 
 <tr>
@@ -192,7 +192,7 @@
 <td> Use Case Feedback   </td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
-<td>/td>
+<td></td>
 </tr>
 
 
