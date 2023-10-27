@@ -1,5 +1,10 @@
 # News
 
+**27  October 2023**  
+The [deliverables](https://cssr4africa.github.io/deliverables) page on the website now lists all deliverables due over the course of the project.
+
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.7, updates Deliverable D5.1 Actuator Tests to use an average angular velocity, thereby allowing the joint actuators to be controlled by specifying the duration of the rotation.
+
 **26  October 2023**  
 The wiki has a new page, [Resources](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Resources), with links to the various images that are used in CSSR4Africa documents, web pages, and wiki pages.
 
