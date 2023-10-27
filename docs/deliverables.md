@@ -379,8 +379,29 @@
 <td></td>
 </tr>
 
+<tr>
+<td>D6.1</td>
+<td>Use Case Implementation</td>
+<td>Wits</td>
+<td>31/03/2025</td>
+<td></td>
+</tr>
 
-
+<tr>
+<td>D6.2</td>
+<td>Use Case Evaluation </td>
+<td>Wits</td>
+<td>30/06/2025</td>
+<td></td>
+</tr>
+ 
+<tr>
+<td>D6.3</td>
+<td>Use Case Re-Evaluation </td>
+<td>Wits</td>
+<td>30/06/2026</td>
+<td></td>
+</tr>
 
 <tr>
 <td>D7.1</td>
@@ -389,6 +410,71 @@
 <td>30/09/2023</td>
 <td>07/08/2023</td>
 </tr>
+
+<tr>
+<td>D7.2</td>
+<td>Dissemination Activities</td>
+<td>Wits</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D7.3</td>
+<td>Open-Source Software Repository</td>
+<td>CMU-Africa</td>
+<td>30/11/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D7.4</td>
+<td>Summer School</td>
+<td>Wits</td>
+<td>30/04/2026</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D8.1</td>
+<td>Progress Report  </td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D8.2</td>
+<td>Expenditure Report  </td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D8.3</td>
+<td>Risk Assessment</td>
+<td>Wits</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D8.4</td>
+<td>Consortium Agreement </td>
+<td>Wits</td>
+<td>31/10/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D8.5</td>
+<td>Gender Action Plan</td>
+<td>Wits</td>
+<td>31/10/2023</td>
+<td></td>
+</tr>
+
 
 </tbody>
 </table>
