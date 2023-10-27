@@ -34,7 +34,6 @@
 <td>31/12/2023</td>
 <td>25/10/2023</td>
 </tr>
-</tr>
 
 <tr>
 <td>D1.2</td>
@@ -84,14 +83,12 @@
 <td></td>
 </tr>
 
-
 <tr>
 <td>D2.1</td>
 <td>Use Case Scenario Definition, version 1</td>
 <td>CMU-Africa</td>
 <td>31/10/2023</td>
 <td></td>
-</tr>
 </tr>
 
 <tr>
@@ -109,7 +106,6 @@
 <td>31/12/2023</td>
 <td></td>
 </tr>
-</tr>
 
 <tr>
 <td>D2.2</td>
@@ -125,7 +121,6 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td></td>
-</tr>
 </tr>
 
 <tr>
@@ -144,14 +139,27 @@
 <td></td>
 </tr>
 
-
-
+<tr>
+<td>D3.1</td>
+<td>System Architecture Design, version 1</td>
+<td>CMU-Africa</td>
+<td>31/01/2024</td>
+<td></td>
+</tr>
 
 <tr>
-<td>D3.3</td>
+<td>D3.1</td>
+<td>System Architecture Design, version 2</td>
+<td>CMU-Africa</td>
+<td>31/12/2025</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D3.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></td>
 <td>CMU-Africa</td>
-<td>01/10/2023</td>
+<td>30/09/2023</td>
 <td>26/10/2023</td>
 </tr>
 
@@ -162,6 +170,34 @@
 <td>31/12/2023</td>
 <td>07/09/2023</td>
 </tr>
+
+<tr>
+<td>D3.4</td>
+<td>System Integration \& Quality Assurance Manual </td>
+<td>CMU-Africa</td>
+<td>31/03/2024</td>
+<td>/td>
+</tr>
+
+<tr>
+<td>D3.5</td>
+<td>System Integration and Quality Assurance </td>
+<td>CMU-Africa</td>
+<td>30/06/2024</td>
+<td>/td>
+</tr>
+
+<tr>
+<td>D3.5</td>
+<td> Use Case Feedback   </td>
+<td>CMU-Africa</td>
+<td>30/09/2025</td>
+<td>/td>
+</tr>
+
+
+
+
 
 <tr>
 <td>D7.1</td>
