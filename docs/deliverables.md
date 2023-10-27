@@ -3,7 +3,7 @@
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
 <tr>
-<th style="min-width: 25px;">Number</th>
+<th style="min-width: 25px;">No.</th>
 <th  style="min-width: 190px;">Name</th>
 <th  style="min-width: 70px;">Lead</th>
 <th style="min-width: 70px;">Due Date</th>
