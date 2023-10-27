@@ -38,7 +38,7 @@
 
 <tr>
 <td>D1.2</td>
-<td>Rwandan Cultural Knowledge, version 2</a></td>
+<td>Rwandan Cultural Knowledge, version 2</td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
 <td></td>
@@ -62,7 +62,7 @@
 
 <tr>
 <td>D1.4</td>
-<td>Africa-centric Design Patterns, version 1</a></td>
+<td>Africa-centric Design Patterns, version 1</td>
 <td>Wits</td>
 <td>31/03/2024</td>
 <td></td>
@@ -70,7 +70,7 @@
 
 <tr>
 <td>D1.4</td>
-<td>Africa-centric Design Patterns, version 2</a></td>
+<td>Africa-centric Design Patterns, version 2</td>
 <td>Wits</td>
 <td>30/09/2025</td>
 <td></td>
@@ -78,11 +78,74 @@
 
 <tr>
 <td>D1.5</td>
-<td>Updates to Deliverables D1.1, D1.2, and D1.3  </a></td>
+<td>Updates to Deliverables D1.1, D1.2, and D1.3 </td>
 <td>Wits</td>
 <td>30/09/2025</td>
 <td></td>
 </tr>
+
+
+<tr>
+<td>D2.1</td>
+<td>Use Case Scenario Definition, version 1</td>
+<td>CMU-Africa</td>
+<td>31/10/2023</td>
+<td></td>
+</tr>
+</tr>
+
+<tr>
+<td>D2.1</td>
+<td>Use Case Scenario Definition, version 2</td>
+<td>CMU-Africa</td>
+<td>30/09/2025</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.2</td>
+<td>Robot Behavior Specification, version 1</td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+</tr>
+
+<tr>
+<td>D2.2</td>
+<td>Robot Behavior Specification  version 2</td>
+<td>CMU-Africa</td>
+<td>30/09/2025</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.3</td>
+<td>Visitor Behavior  Specification, version 1</td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+</tr>
+
+<tr>
+<td>D2.3</td>
+<td>Visitor Behavior  Specification, version 2</td>
+<td>CMU-Africa</td>
+<td>30/09/2025</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.4</td>
+<td>Use Case Updates</a></td>
+<td>Wits</td>
+<td>30/09/2025</td>
+<td></td>
+</tr>
+
+
+
 
 <tr>
 <td>D3.3</td>
@@ -111,4 +174,4 @@
 </tbody>
 </table>
 </font>
-
+ 
