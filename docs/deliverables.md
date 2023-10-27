@@ -176,7 +176,7 @@
 <td>System Integration and Quality Assurance Manual </td>
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
-<td>/td>
+<td></td>
 </tr>
 
 <tr>
@@ -189,11 +189,84 @@
 
 <tr>
 <td>D3.5</td>
-<td> Use Case Feedback   </td>
+<td>Use Case Feedback  </td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
 <td></td>
 </tr>
+
+<tr>
+<td>D4.1</td>
+<td>Sensor Unit Tests  </td>
+<td>CMU-Africa</td>
+<td>31/10/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2.1</td>
+<td>Person Detection and Localization </td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2.2</td>
+<td>Face and Eye Detection and Localization</td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2.3</td>
+<td>Sound Detection and Localization</td>
+<td>CMU-Africa</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2.4</td>
+<td>Robot Localization </td>
+<td>CMU-Africa</td>
+<td>31/03/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2.5</td>
+<td>Camera Calibration</td>
+<td>Wits</td>
+<td>31/12/2023</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.3.1</td>
+<td>Tablet PC Event </td>
+<td>Wits</td>
+<td>31/03/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.3.2</td>
+<td>Speech Event </td>
+<td>CMU-Africa</td>
+<td>31/03/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.4</td>
+<td>Use Case Feedback </td>
+<td>CMU-Africa</td>
+<td>31/03/2026</td>
+<td></td>
+</tr>
+
 
 
 
