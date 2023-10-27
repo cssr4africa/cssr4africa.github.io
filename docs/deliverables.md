@@ -197,7 +197,7 @@
 
 <tr>
 <td>D4.1</td>
-<td>Sensor Unit Tests  </td>
+<td>Sensor Tests  </td>
 <td>CMU-Africa</td>
 <td>31/10/2023</td>
 <td></td>
@@ -267,7 +267,117 @@
 <td></td>
 </tr>
 
+<tr>
+<td>D5.1</td>
+<td>Actuator Tests </td>
+<td>CMU-Africa</td>
+<td>31/10/2023</td>
+<td></td>
+</tr>
 
+<tr>
+<td>D5.2</td>
+<td>Animate Behavior Subsystem</td>
+<td>CMU-Africa</td>
+<td>31/03/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.3</td>
+<td>Attention Subsystem</td>
+<td>CMU-Africa</td>
+<td>30/09/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.4.1</td>
+<td>Cultural Knowledge Ontology</td>
+<td>Wits</td>
+<td>31/12/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.4.2</td>
+<td>Scenario Script Language</td>
+<td>Wits</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.4.3</td>
+<td>Scenario Script Interpreter</td>
+<td>Wits</td>
+<td>31/12/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.1</td>
+<td>Gesture Execution</td>
+<td>CMU-Africa</td>
+<td>30/09/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.2.1</td>
+<td> English Text to Speech Conversion</td>
+<td>Wits</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.2.2</td>
+<td>isiZulu Text to Speech Conversion </td>
+<td>Wits</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.2.3</td>
+<td>Kinyarwanda Text to Speech Conversion </td>
+<td>CMU-Africa</td>
+<td>30/06/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.2.4</td>
+<td>Integrated Text to Speech Conversion </td>
+<td>Wits</td>
+<td>30/09/2024</td>
+<td></td>
+</tr>
+ 
+<tr>
+<td>D5.5.3</td>
+<td>Environment Map Generation </td>
+<td>CMU-Africa</td>
+<td>31/03/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.5.4</td>
+<td>Robot Navigation</td>
+<td>CMU-Africa</td>
+<td>31/12/2024</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.6</td>
+<td>Use Case Feedback</td>
+<td>CMU-Africa</td>
+<td>31/03/2026</td>
+<td></td>
+</tr>
 
 
 
