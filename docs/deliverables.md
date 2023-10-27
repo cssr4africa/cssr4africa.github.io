@@ -3,9 +3,10 @@
 <font size="1">
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
+
 <tr>
-<th style="min-width: 25px;">No.</th>
-<th  style="min-width: 220px;">Title</th>
+<th style="min-width: 15px;">No.</th>
+<th  style="min-width: 230px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
 <th style="min-width: 60px;">Due Date</th>
 <th style="min-width: 60px;">Submission Date</th>
@@ -46,7 +47,7 @@
 
 <tr>
 <td>D1.3</td>
-<td>African Modes of Social Interaction, version 1</a></td>
+<td>African Modes of Social Interaction, version 1</td>
 <td>Wits</td>
 <td>31/03/2024</td>
 <td></td>
@@ -54,7 +55,7 @@
 
 <tr>
 <td>D1.3</td>
-<td>African Modes of Social Interaction, version 2</a></td>
+<td>African Modes of Social Interaction, version 2</td>
 <td>Wits</td>
 <td>30/09/2025</td>
 <td></td>
