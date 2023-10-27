@@ -1,5 +1,6 @@
 # Deliverables
 
+<font size="1">
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
 <tr>
@@ -39,3 +40,4 @@
 </tr>
 </tbody>
 </table>
+</font>
