@@ -3,13 +3,12 @@
 <font size="1">
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>
-
 <tr>
-<th style="min-width: 15px;">No.</th>
-<th  style="min-width: 230px;">Title</th>
+<th style="min-width: 10px;">No.</th>
+<th  style="min-width: 245px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
-<th style="min-width: 60px;">Due Date</th>
-<th style="min-width: 60px;">Submission Date</th>
+<th style="min-width: 55px;">Due Date</th>
+<th style="min-width: 55px;">Submission Date</th>
 </tr>
 
 <tr>
