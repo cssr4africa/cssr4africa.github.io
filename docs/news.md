@@ -1,5 +1,10 @@
 # News
 
+**1  November 2023**  
+A new draft of Deliverable D3.2 Software Engineering Standards Manual (version 1.3) is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf).  This version has some important changes to Appendices A and B which contain the mandatory standards (see Document History on p. 39). 
+
+Deliverable D3.4 System Integration and Quality Assurance Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf).
+
 **27  October 2023**  
 The [deliverables](https://cssr4africa.github.io/deliverables) page on the website now lists all deliverables due over the course of the project.
 
