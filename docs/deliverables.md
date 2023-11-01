@@ -176,7 +176,7 @@
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf">System Integration and Quality Assurance Manual</a></td>
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
-<td></td>
+<td>01/11/2023</td>
 </tr>
 
 <tr>
