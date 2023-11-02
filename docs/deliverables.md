@@ -7,7 +7,7 @@
 <th style="min-width: 10px;">No.</th>
 <th  style="min-width: 245px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
-<th style="min-width: 55px;">Due Date (bold for 1st period)</th>
+<th style="min-width: 55px;">Due Date (Period 1 in bold)</th>
 <th style="min-width: 55px;">Submission Date</th>
 </tr>
 
@@ -15,7 +15,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td>**31/12/2023**</td>
+<td> **31/12/2023** </td>
 <td></td>
 </tr>
 
@@ -478,5 +478,8 @@
 
 </tbody>
 </table>
+
+**test**
 </font>
  
+ **test**
