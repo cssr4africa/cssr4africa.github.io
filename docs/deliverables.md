@@ -7,7 +7,7 @@
 <th style="min-width: 10px;">No.</th>
 <th  style="min-width: 245px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
-<th style="min-width: 55px;">Due Date   (Period 1 in bold)</th>
+<th style="min-width: 55px;">Due Date   <strong>(Period 1)</strong></th>
 <th style="min-width: 55px;">Submission Date</th>
 </tr>
 
@@ -15,7 +15,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td><th>31/12/2023</th></td>
+<td>*31/12/2023*</td>
 <td></td>
 </tr>
 
@@ -31,7 +31,7 @@
 <td>D1.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></td>
 <td>CMU-Africa</td>
-<td>**31/12/2023**</td>
+<td><font color="red">31/12/2023</font></td>
 <td>25/10/2023</td>
 </tr>
 
