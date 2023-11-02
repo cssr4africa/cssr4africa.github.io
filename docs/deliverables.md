@@ -7,7 +7,7 @@
 <th style="min-width: 10px;">No.</th>
 <th  style="min-width: 245px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
-<th style="min-width: 55px;">Due Date   <font color="red">(Period 1)<f/ont></th>
+<th style="min-width: 55px;">Due Date   <font color="red">(Period 1)</font></th>
 <th style="min-width: 55px;">Submission Date</th>
 </tr>
 
@@ -103,7 +103,7 @@
 <td>D2.2</td>
 <td>Robot Behavior Specification, version 1</td>
 <td>CMU-Africa</td>
-<td><font color="red">31/12/2023**</td>
+<td><font color="red">31/12/2023</font></td>
 <td></td>
 </tr>
 
@@ -119,7 +119,7 @@
 <td>D2.3</td>
 <td>Visitor Behavior  Specification, version 1</td>
 <td>CMU-Africa</td>
-<td><font color="red">31/12/2023**</td>
+<td><font color="red">31/12/2023</font></td>
 <td></td>
 </tr>
 
@@ -271,7 +271,7 @@
 <td>D5.1</td>
 <td>Actuator Tests </td>
 <td>CMU-Africa</td>
-<td><font color="red">31/10/2023**</td>
+<td><font color="red">31/10/2023</font></td>
 <td></td>
 </tr>
 
