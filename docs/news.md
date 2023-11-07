@@ -1,4 +1,6 @@
 # News
+**7  November 2023**  
+The first draft of Deliverable D2.1 Use Case Scenario Definition (version 1.0) is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).   
 
 **1  November 2023**  
 A new draft of Deliverable D3.2 Software Engineering Standards Manual (version 1.3) is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf).  This version has some important changes to Appendices A and B which contain the mandatory standards (see Document History on p. 39). 

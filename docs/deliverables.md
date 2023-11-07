@@ -85,7 +85,7 @@
 
 <tr>
 <td>D2.1</td>
-<td>Use Case Scenario Definition, version 1</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Use Case Scenario Definition, version 1</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/10/2023</font></td>
 <td></td>
