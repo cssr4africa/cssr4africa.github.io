@@ -1,4 +1,8 @@
 # News
+
+**20  November 2023**  
+The second draft of Deliverable D2.1 Use Case Scenario Definition (version 1.2) is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  Please refer to the document history for a list of the changes.
+
 **16  November 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.8, updates Deliverable D4.1 Sensor Tests to remove the need for either a driver or a stub.
 
