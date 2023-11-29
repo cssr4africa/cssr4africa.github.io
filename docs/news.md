@@ -1,7 +1,7 @@
 # News
 
 **27 November 2023**  
-Workshop update:  There is a new format for the workshop on Culturally Sensitive Social Robotics for All [CSSR4All](http://www.cssr4all.org) at the 21st International Conference on Advanced Robotics, ICAR 2023, Abu Dhabi, UAE, 5th December, 2 pm - 6 pm.  We have two great invited speakers: [Barbara Bruno](https://www.informatik.kit.edu/img/bruno_professorenseite.pdf), Karlsruhe Institute of Technology, Germany, and [Raquel Ros](https://www.linkedin.com/in/raquel-ros-3905b521/?originalSubdomain=es), PAL Robotics, Spain.
+Workshop update:  There is a new format for the workshop on Culturally Sensitive Social Robotics for All ([CSSR4All](http://www.cssr4all.org)) at the 21st International Conference on Advanced Robotics, I[CAR 2023](https://www.icar-robotics.org/), Abu Dhabi, UAE, 5th December, 2 pm - 6 pm.  We have two great invited speakers: [Barbara Bruno](https://www.informatik.kit.edu/img/bruno_professorenseite.pdf), Karlsruhe Institute of Technology, Germany, and [Raquel Ros](https://www.linkedin.com/in/raquel-ros-3905b521/?originalSubdomain=es), PAL Robotics, Spain.
 
 **20  November 2023**  
 The second draft of Deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  Please refer to the document history for a list of the changes.
