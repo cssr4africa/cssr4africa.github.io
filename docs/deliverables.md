@@ -104,7 +104,7 @@
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
-<td></td>
+<td>31/12/2023</td>
 </tr>
 
 <tr>
@@ -120,7 +120,7 @@
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
-<td></td>
+<td>31/12/2023</td>
 </tr>
 
 <tr>
