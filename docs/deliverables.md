@@ -445,7 +445,7 @@
 
 <tr>
 <td>D8.2</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D78.2.pdf">Expenditure Report </a> </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.2.pdf">Expenditure Report </a> </td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
 <td>31/12/2023</td>
