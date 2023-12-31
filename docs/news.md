@@ -7,6 +7,8 @@ Deliverables  D2.2 Robot Behavior Specification and D2.3 Visitor Behavior Specif
 
 Deliverable D3.2 has been updated to simplify the CSSR4Africa ROS package directory structure for the system architecture subsystems by consolidating all the constituent nodes into one package, cssr_system, rather than having a separate package for each subsystem.
 
+Deliverable D8.1 Progress Report has been submitted.
+
 **27 November 2023**  
 Workshop update:  There is a new format for the workshop on Culturally Sensitive Social Robotics for All ([CSSR4All](http://www.cssr4all.org)) at the 21st International Conference on Advanced Robotics, [ICAR 2023](https://www.icar-robotics.org/), Abu Dhabi, UAE, 5th December, 2 pm - 6 pm.  We have two great invited speakers: [Barbara Bruno](https://www.informatik.kit.edu/img/bruno_professorenseite.pdf), Karlsruhe Institute of Technology, Germany, and [Raquel Ros](https://www.linkedin.com/in/raquel-ros-3905b521/?originalSubdomain=es), PAL Robotics, Spain.
 

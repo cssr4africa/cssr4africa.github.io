@@ -424,7 +424,7 @@
 <td> <a href="https://github.com/cssr4africa/cssr4africa"> Open-Source Software Repository</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">30/11/2023</font></td>
-<td></td>
+<td>31/12/2023</td>
 </tr>
 
 <tr>
@@ -437,18 +437,18 @@
 
 <tr>
 <td>D8.1</td>
-<td>Progress Report  </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a>  </td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
-<td></td>
+<td>31/12/2023</td>
 </tr>
 
 <tr>
 <td>D8.2</td>
-<td>Expenditure Report  </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D78.2.pdf">Expenditure Report </a> </td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
-<td></td>
+<td>31/12/2023</td>
 </tr>
 
 <tr>
