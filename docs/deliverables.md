@@ -101,7 +101,7 @@
 
 <tr>
 <td>D2.2</td>
-<td>Robot Behavior Specification, version 1</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
 <td></td>
@@ -117,7 +117,7 @@
 
 <tr>
 <td>D2.3</td>
-<td>Visitor Behavior  Specification, version 1</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/12/2023</font></td>
 <td></td>
