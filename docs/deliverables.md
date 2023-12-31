@@ -421,7 +421,7 @@
 
 <tr>
 <td>D7.3</td>
-<td>Open-Source Software Repository</td>
+<td> <a href="https://github.com/cssr4africa/cssr4africa"> Open-Source Software Repository</a></td>
 <td>CMU-Africa</td>
 <td><font color="red">30/11/2023</font></td>
 <td></td>
