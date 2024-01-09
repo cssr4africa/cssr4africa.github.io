@@ -1,5 +1,8 @@
 # News
 
+**9 January 2024**  
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.13, updates Deliverables D4.2.1 Person Detection and Localization, D4.2.2 Face & Eye Detection and Localization Task, D4.2.3 Sound Detection and Localization, D4.2.4 Robot Localization, D4.2.5 Camera Calibration, D4.3.1 Tablet PC Event, D4.3.2 Speech Event, D5.2 Animate Behavior Subsystem, D5.3 Attention Subsystem,  and D5.5.1 Gesture Execution.
+
 **31 December 2023**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.12, updates Deliverables D2.2 Robot Behavior Specification and D2.3 Visitor Behavior Specification to simplify the  objectives and align them better with D3.1 System Architecture Design.
 
