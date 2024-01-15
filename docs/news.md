@@ -1,5 +1,8 @@
 # News
 
+**15 January 2024**  
+A poster describing the project is now available in [PowerPoint](https://cssr4africa.github.io/posters/CSSR4Africa.pptx) and [pdf](https://cssr4africa.github.io/posters/CSSR4Africa.pdf).
+
 **9 January 2024**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.13, updates Deliverables D4.2.1 Person Detection and Localization, D4.2.2 Face & Eye Detection and Localization Task, D4.2.3 Sound Detection and Localization, D4.2.4 Robot Localization, D4.2.5 Camera Calibration, D4.3.1 Tablet PC Event, D4.3.2 Speech Event, D5.2 Animate Behavior Subsystem, D5.3 Attention Subsystem,  and D5.5.1 Gesture Execution.
 
