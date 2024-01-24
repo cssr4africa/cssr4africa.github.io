@@ -141,9 +141,9 @@
 
 <tr>
 <td>D3.1</td>
-<td>System Architecture Design, version 1</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture Design, version 1</a></td>
 <td>CMU-Africa</td>
-<td>31/01/2024</td>
+<td>24/01/2024</td>
 <td></td>
 </tr>
 
