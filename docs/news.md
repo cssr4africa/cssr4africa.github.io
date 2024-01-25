@@ -1,5 +1,5 @@
 # News
-**24 January 2024**  
+**25 January 2024**  
 Deliverables  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
 
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version, v. 2.16,  introduces several changes as a result of the completion of the system architecture. These changes are recorded in the document history.
