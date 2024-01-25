@@ -141,7 +141,7 @@
 
 <tr>
 <td>D3.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf"> PDF of Fig. 2</a>)</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf">PDF of Fig. 2</a>)</td>
 <td>CMU-Africa</td>
 <td>24/01/2024</td>
 <td></td>
