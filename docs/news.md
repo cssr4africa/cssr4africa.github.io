@@ -1,4 +1,7 @@
 # News
+**15 January 2024**  
+All deliverables now have a revision date on the cover page showing the date of the latest version was uploaded. The initial submission date remains.  New templates with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates).
+
 **25 January 2024**  
 Deliverables  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
 
