@@ -1,5 +1,9 @@
 # News
-**15 January 2024**  
+
+**30 January 2024**  
+New version of Deliverable  D2.2 Robot Behavior Specification [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf)
+
+**26 January 2024**  
 All deliverables now have a revision date on the cover page showing the date of the latest version was uploaded. The initial submission date remains.  New templates with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates).
 
 **25 January 2024**  
