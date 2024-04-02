@@ -3,6 +3,8 @@
 **2 April 2024**   
 Deliverable  D4.1 Sensor Test is now available  [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf) and Deliverable D5.1 Actuator Test is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf). This is a milestone in that it means we now can access data from all of Pepper's sensors and can control all of Pepper's actuators using ROS. A new version of Deliverable D3.3 Software Installation Manual that includes this test software is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
 
+A new LaTeX template for deliverables  with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates). This version has a new CSSRforAfrica.cls file which now inserts the revision date in the footer, not the submission date,  provided the version number is not 1.0.
+
 **23 February 2024**   
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  This has a version of the questionnaire in Kinyarwanda.
 
@@ -15,7 +17,7 @@ A new version the CSSR4Africa work plan is available [here](https://cssr4africa.
 New version of Deliverable  D2.2 Robot Behavior Specification [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf)
 
 **26 January 2024**  
-All deliverables now have a revision date on the cover page showing the date of the latest version was uploaded. The initial submission date remains.  New templates with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates).
+All deliverables now have a revision date on the cover page showing the date the latest version was uploaded. The initial submission date remains.  New templates with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates).
 
 **25 January 2024**  
 Deliverable  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
