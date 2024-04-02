@@ -1,5 +1,8 @@
 # News
 
+**2 April 2024**   
+Deliverable  D4.1 Sensor Test is now available  [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf) and Deliverable D5.1 Actuator Test is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf). This is a milestone in that it means we now can access data from all of Pepper's sensors and can control all of Pepper's actuators using ROS. A new version of Deliverable D3.3 Software Installation Manual that includes this test software is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
+
 **23 February 2024**   
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  This has a version of the questionnaire in Kinyarwanda.
 
