@@ -3,7 +3,6 @@
 While technological invention creates new ways of doing things, it is *innovation* that produces social and economic benefits through widespread *adoption* and the consequent change in the people's practices.  Adoption  depends on physical infrastructure, but it also depends on social infrastructure: the  conventions that govern  people's behaviour,  the practices they find acceptable and unacceptable, and their sense of what is trustworthy. Cultural competence, i.e., an awareness of social norms and cultural expectations, is a key element in fostering this acceptance.
 
 The  need for technology to be culturally competent is perhaps best exemplified by the field of social robotics, a field that is growing quickly.<sup>1</sup>
-Social robots serve people in a variety of ways: they operate in everyday environments, often in open spaces such as hospitals, exhibition centres, and airports, providing  assistance to people, typically in the form of advice, guidance, or information.  
  
 ![CSSR4Africa-Scenario](https://cssr4africa.github.io/images/CSSR_Scenario3A.png)
    
