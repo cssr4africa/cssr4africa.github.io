@@ -1,4 +1,6 @@
 # News
+**5 April 22024**
+We have launched a pilot survey at CMU-Africa to acquire cultural knowledge about how to interact respectfully with people in Rwanda. The knowledge that is gathered will be used by our social robots when they engage with people, informing their verbal, non-verbal, and spatial interaction. The survey is available in English [here](https://docs.google.com/forms/d/e/1FAIpQLSc-5lz0YfPCtK5BSL6cGkmlJVkE0vwyKXppkhXs4l1rYPwKlA/formResponse) and in Kinyarwanda [here](https://docs.google.com/forms/d/e/1FAIpQLScSu95pCT2MsRohukI9ib6GxsuyXuQozeqGQXO9DYcDD5RvlQ/viewform).  
 
 **2 April 2024**   
 Deliverable  D4.1 Sensor Test is now available  [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf) and Deliverable D5.1 Actuator Test is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf). This is a milestone in that it means we now can access data from all of Pepper's sensors and can control all of Pepper's actuators using ROS. A new version of Deliverable D3.3 Software Installation Manual that includes this test software is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
