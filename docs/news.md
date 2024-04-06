@@ -1,6 +1,6 @@
 # News
 
-**5 April 22024**
+**5 April 2024**   
 We have launched a pilot survey at CMU-Africa to acquire cultural knowledge about how to interact respectfully with people in Rwanda. The knowledge that is gathered will be used by our social robots when they engage with people, informing their verbal, non-verbal, and spatial interaction. The survey is available in English [here](https://docs.google.com/forms/d/e/1FAIpQLSc-5lz0YfPCtK5BSL6cGkmlJVkE0vwyKXppkhXs4l1rYPwKlA/formResponse) and in Kinyarwanda [here](https://docs.google.com/forms/d/e/1FAIpQLScSu95pCT2MsRohukI9ib6GxsuyXuQozeqGQXO9DYcDD5RvlQ/viewform).  
 
 **2 April 2024**   
