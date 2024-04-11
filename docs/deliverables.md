@@ -197,7 +197,7 @@
 
 <tr>
 <td>D4.1</td>
-<td>Sensor Tests  </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf">Sensor Tests</a> </td>
 <td>CMU-Africa</td>
 <td><font color="red">31/10/2023</font></td>
 <td></td>
@@ -269,7 +269,7 @@
 
 <tr>
 <td>D5.1</td>
-<td>Actuator Tests </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf">Actuator Tests </a></td>
 <td>CMU-Africa</td>
 <td><font color="red">31/10/2023</font></td>
 <td></td>

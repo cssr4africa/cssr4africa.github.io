@@ -6,6 +6,7 @@ We have launched a pilot survey at CMU-Africa to acquire cultural knowledge abou
 **2 April 2024**   
 Deliverable  D4.1 Sensor Test is now available  [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf) and Deliverable D5.1 Actuator Test is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf). This is a milestone in that it means we now can access data from all of Pepper's sensors and can control all of Pepper's actuators using ROS. A new version of Deliverable D3.3 Software Installation Manual that includes this test software is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
 
+**2 April 2024**   
 A new LaTeX template for deliverables  with this change can be found on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates). This version has a new CSSRforAfrica.cls file which now inserts the revision date in the footer, not the submission date,  provided the version number is not 1.0.
 
 **23 February 2024**   
