@@ -7,7 +7,7 @@
 <th style="min-width: 10px;">No.</th>
 <th  style="min-width: 245px;">Title</th>
 <th  style="min-width: 60px;">Lead</th>
-<th style="min-width: 55px;">Due Date   <font color="black">(Period 1)</font></th>
+<th style="min-width: 55px;">Due Date   </th>
 <th style="min-width: 55px;">Submission Date</th>
 </tr>
 
@@ -15,7 +15,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td><font color="black">31/12/2023</font></td>
+<td><31/12/2023</td>
 <td></td>
 </tr>
 
@@ -31,7 +31,7 @@
 <td>D1.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>25/10/2023</td>
 </tr>
 
@@ -87,7 +87,7 @@
 <td>D2.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf">Use Case Scenario Definition, version 1</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/10/2023</font></td>
+<td>31/10/2023</td>
 <td>07/11/2023</td>
 </tr>
 
@@ -103,7 +103,7 @@
 <td>D2.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>31/12/2023</td>
 </tr>
 
@@ -119,7 +119,7 @@
 <td>D2.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>31/12/2023</td>
 </tr>
 
@@ -159,7 +159,7 @@
 <td>D3.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">30/09/2023</font></td>
+<td>30/09/2023</td>
 <td>26/10/2023</td>
 </tr>
 
@@ -167,7 +167,7 @@
 <td>D3.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>07/09/2023</td>
 </tr>
 
@@ -199,7 +199,7 @@
 <td>D4.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf">Sensor Tests</a> </td>
 <td>CMU-Africa</td>
-<td><font color="black">31/10/2023</font></td>
+<td>31/10/2023</td>
 <td>02/04/2024</td>
 </tr>
 
@@ -207,7 +207,7 @@
 <td>D4.2.1</td>
 <td>Person Detection and Localization </td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td></td>
 </tr>
 
@@ -215,7 +215,7 @@
 <td>D4.2.2</td>
 <td>Face and Eye Detection and Localization</td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td></td>
 </tr>
 
@@ -223,7 +223,7 @@
 <td>D4.2.3</td>
 <td>Sound Detection and Localization</td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td></td>
 </tr>
 
@@ -239,7 +239,7 @@
 <td>D4.2.5</td>
 <td>Camera Calibration</td>
 <td>Wits</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td></td>
 </tr>
 
@@ -271,7 +271,7 @@
 <td>D5.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf">Actuator Tests </a></td>
 <td>CMU-Africa</td>
-<td><font color="black">31/10/2023</font></td>
+<td>31/10/2023</td>
 <td>02/04/2024</td>
 </tr>
 
@@ -407,7 +407,7 @@
 <td>D7.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D7.1.pdf">Online Presence</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">30/09/2023</font></td>
+<td>30/09/2023</td>
 <td>07/08/2023</td>
 </tr>
 
@@ -423,7 +423,7 @@
 <td>D7.3</td>
 <td> <a href="https://github.com/cssr4africa/cssr4africa"> Open-Source Software Repository</a></td>
 <td>CMU-Africa</td>
-<td><font color="black">30/11/2023</font></td>
+<td>30/11/2023</td>
 <td>31/12/2023</td>
 </tr>
 
@@ -439,7 +439,7 @@
 <td>D8.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a>  </td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>31/12/2023</td>
 </tr>
 
@@ -447,7 +447,7 @@
 <td>D8.2</td>
 <td>Expenditure Report</td>
 <td>CMU-Africa</td>
-<td><font color="black">31/12/2023</font></td>
+<td>31/12/2023</td>
 <td>31/12/2023</td>
 </tr>
 
@@ -463,7 +463,7 @@
 <td>D8.4</td>
 <td>Consortium Agreement </td>
 <td>Wits</td>
-<td><font color="black">31/10/2023</font></td>
+<td>31/10/2023</td>
 <td></td>
 </tr>
 
@@ -471,12 +471,12 @@
 <td>D8.5</td>
 <td>Gender Action Plan</td>
 <td>Wits</td>
-<td><font color="black">31/10/2023</font></td>
+<td>31/10/2023</td>
 <td></td>
 </tr>
 
 
 </tbody>
 </table>
-</font>
+
  
