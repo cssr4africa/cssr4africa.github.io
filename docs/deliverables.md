@@ -15,7 +15,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td><31/12/2023</td>
+<td>31/12/2023</td>
 <td></td>
 </tr>
 
