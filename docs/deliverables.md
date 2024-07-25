@@ -181,10 +181,10 @@
 
 <tr>
 <td>D3.5</td>
-<td>System Integration and Quality Assurance </td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf">System Integration and Quality Assurance </a></td>
 <td>CMU-Africa</td>
 <td>30/06/2024</td>
-<td></td>
+<td>25/07/2024</td>
 </tr>
 
 <tr>
