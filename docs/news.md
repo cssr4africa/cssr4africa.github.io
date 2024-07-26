@@ -1,6 +1,6 @@
 # News
 
-**26 July 2024***
+**26 July 2024**
 A new version of deliverable  D8.1 Progress Report is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf).  
 
 **9 May 2024**   
