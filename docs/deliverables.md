@@ -439,8 +439,8 @@
 <td>D8.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a>  </td>
 <td>CMU-Africa</td>
-<td>31/12/2023</td>
-<td>31/12/2023</td>
+<td>30/06/2024</td>
+<td>25/07/2024</td>
 </tr>
 
 <tr>
