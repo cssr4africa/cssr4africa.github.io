@@ -1,7 +1,10 @@
 # News
 
+**26 July 2024***
+A new version of deliverable  D8.1 Progress Report is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf).  
+
 **9 May 2024**   
-New version of deliverable  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
+A new version of deliverable  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
 
 **5 April 2024**   
 We have launched a pilot survey at CMU-Africa to acquire cultural knowledge about how to interact respectfully with people in Rwanda. The knowledge that is gathered will be used by our social robots when they engage with people, informing their verbal, non-verbal, and spatial interaction. The survey is available in Kinyarwanda [here](https://docs.google.com/forms/d/e/1FAIpQLScSu95pCT2MsRohukI9ib6GxsuyXuQozeqGQXO9DYcDD5RvlQ/viewform)  and in English [here](https://docs.google.com/forms/d/e/1FAIpQLSc-5lz0YfPCtK5BSL6cGkmlJVkE0vwyKXppkhXs4l1rYPwKlA/formResponse).
