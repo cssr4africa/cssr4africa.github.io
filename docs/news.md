@@ -1,18 +1,18 @@
 # News
 
-**21 August 2024**
+**21 August 2024** 
 A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
-Added a repository for software installation scripts; this helps automate the installation process. 
-Updated the README files in the main cssr4africa parent repository and in pepper_interface_tests directory.
-New version of naoqi_driver repository.
+Added a repository for software installation scripts; this helps automate the installation process.  
+Updated the README files in the main cssr4africa parent repository and in pepper_interface_tests directory. 
+New version of naoqi_driver repository. 
 
-**19 August 2024**
+**19 August 2024** 
 A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  
 
-**26 July 2024**
+**26 July 2024**  
 A new version of deliverable  D8.1 Progress Report is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf).  
 
-**9 May 2024**   
+**9 May 2024**    
 A new version of deliverable  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
 
 **5 April 2024**   
