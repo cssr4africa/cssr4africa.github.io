@@ -1,6 +1,9 @@
 # News
 
 **21 August 2024**   
+A new version of  deliverable D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
+
+**21 August 2024**   
 A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
 A repository for software installation scripts has been added; this helps automate the installation process.  
 The README files in the main cssr4africa parent repository and in pepper_interface_tests directory have been updated.
