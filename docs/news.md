@@ -1,5 +1,8 @@
 # News
 
+**5 September 2024**   
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history.
+
 **21 August 2024**   
 A new version of  deliverable D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
 
