@@ -1,5 +1,11 @@
 # News
 
+**9 September 2024**   
+A new version  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
+A new version  D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf). 
+A new version  D3.4 System Integration and Quality Assurance Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf). 
+The changes are recorded in the document history.
+
 **5 September 2024**   
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history.
 
