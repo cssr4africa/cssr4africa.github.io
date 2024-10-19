@@ -28,3 +28,5 @@ E. Birhan and D. Vernon, "Rwandan Culture Survey for Culturally-Sensitive Social
 
 I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Culturally Sensitive Social Robots: African Culture Case Study", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/presentations/2024_Robotics_in_Africa_Forum_IROS_Jimoh_et_al.pdf).  
 
+D. Vernon, "Keynote Talk: Culturally Sensitive Social Robots for African", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/presentations/2024_Robotics_in_Africa_Forum_IROS_Vernon.pdf).  
+
