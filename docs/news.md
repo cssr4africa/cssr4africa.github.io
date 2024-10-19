@@ -1,7 +1,7 @@
 # News
 
 **16 October 2024**   
-The first keynote talk at the [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/) featured the CSSR4Africa project.  Research Associates and research assistants working on the CSSR4Africa project also gave lightning presentations focussing on core elements of the research.  These presentations, along with accompanying posters, are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
+The first keynote talk at the [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/) featured the CSSR4Africa project.  Research Associates and research assistants working on the CSSR4Africa project also gave lightning presentations focussing on core elements of the research.  These presentations, along with accompanying abstracts and posters, are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
 
 **10 September 2024**   
 A new version  D2.1 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  
