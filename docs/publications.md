@@ -9,7 +9,7 @@ P. Zantou and D. Vernon, "Culturally-Sensitive Human-Robot Interaction: A Case S
 
 ## Posters
 
-Culturally Sensitive Social Robotics for Africa [Overview](CSSR4Africa_Overview.pdf)
+Culturally Sensitive Social Robotics for Africa [Overview](https://cssr4africa.github.io/posters/CSSR4Africa_Overview.pdf)
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/posters/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon.pdf).  
 
