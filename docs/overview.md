@@ -17,4 +17,4 @@ CSSR4Africa focusses on cultural sensitivity. We plan to extend the work to cult
  
  Reference: B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, F. Pecora, A. Saffioti, and A. Sgorbissa, "Paving the way for culturally competent robots: A position paper", in 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal, 2017, pp. 553-560.
     
-A poster describing the project is available in [PowerPoint](https://cssr4africa.github.io/posters/CSSR4Africa.pptx) and [pdf](https://cssr4africa.github.io/posters/CSSR4Africa.pdf).
+Papers, posters, and presentations that describe  the project are  available on the [Publications](https://cssr4africa.github.io/publications) page. 

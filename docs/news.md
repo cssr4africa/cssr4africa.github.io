@@ -1,5 +1,8 @@
 # News
 
+**16 October 2024**   
+The first keynote talk at the [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/) featured the CSSR4Africa project.  Research Associates and research assistants working on the CSSR4Africa project also gave lightning presentations focussing on core elements of the research.  These presentations, along with accompanying posters, are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
+
 **10 September 2024**   
 A new version  D2.1 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  
 
@@ -25,7 +28,7 @@ There is also a new version of naoqi_driver repository.
 A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).  
 
 **26 July 2024**  
-A new version of deliverable  D8.1 Progress Report is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf).  
+A new version of deliverable  D8.1 Progress Report is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.2.pdf).  
 
 **9 May 2024**    
 A new version of deliverable  D3.1 System Architecture is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   A copy of the detailed system architecture in Fig. 2 showing the constituent ROS nodes, topics, and services is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf).
