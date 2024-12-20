@@ -1,6 +1,6 @@
 # News
 
-** 20 December 2024**
+**20 December 2024**
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history. They address new functionality in the overtAttention node to prioritize detected faces when scanning the environment for general features, in the gestureExecution node to include head movement to complement pointing gestures, and in the faceDetection node to remove eye detection and add mutual gaze detection. 
 
 **16 October 2024**   
