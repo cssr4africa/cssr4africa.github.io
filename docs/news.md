@@ -1,7 +1,7 @@
 # News
 
 **20 December 2024**
-A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history. They address new functionality in the overtAttention node to prioritize detected faces when scanning the environment for general features, in the gestureExecution node to include head movement to complement pointing gestures, and in the faceDetection node to remove eye detection and add mutual gaze detection. 
+A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history. They address new functionality in the overtAttention node to prioritize detected faces when scanning the environment for general features, in the gestureExecution node to include head movement to complement pointing gestures, and in the faceDetection node to remove eye detection and add mutual gaze detection.  
 
 **16 October 2024**   
 The first keynote talk at the [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/) featured the CSSR4Africa project.  Research Associates and research assistants working on the CSSR4Africa project also gave lightning presentations focussing on core elements of the research.  These presentations, along with accompanying abstracts and posters, are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
