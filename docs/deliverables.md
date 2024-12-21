@@ -329,10 +329,10 @@
 
 <tr>
 <td>D5.4.1</td>
-<td>Cultural Knowledge Ontology</td>
+<td>Cultural Knowledge Ontology & Knowledge Base</td>
 <td>Wits</td>
 <td>31/12/2024</td>
-<td></td>
+<td>21/12/2024</td>
 <td></td>
 </tr>
 
