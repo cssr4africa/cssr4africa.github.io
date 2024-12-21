@@ -18,6 +18,7 @@
 <td>Wits</td>
 <td>31/12/2023</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -25,6 +26,7 @@
 <td>South African Cultural Knowledge, version 2</td>
 <td>Wits</td>
 <td>31/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -34,6 +36,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td>25/10/2023</td>
+<td>21/12/2024</td>
 </tr>
 
 <tr>
@@ -41,6 +44,7 @@
 <td>Rwandan Cultural Knowledge, version 2</td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -50,6 +54,7 @@
 <td>Wits</td>
 <td>31/03/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -57,6 +62,7 @@
 <td>African Modes of Social Interaction, version 2</td>
 <td>Wits</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -66,6 +72,7 @@
 <td>Wits</td>
 <td>31/03/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -73,6 +80,7 @@
 <td>Africa-centric Design Patterns, version 2</td>
 <td>Wits</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -82,6 +90,7 @@
 <td>Wits</td>
 <td>30/09/2025</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -90,6 +99,7 @@
 <td>CMU-Africa</td>
 <td>31/10/2023</td>
 <td>07/11/2023</td>
+<td>09/09/2024</td>
 </tr>
 
 <tr>
@@ -97,6 +107,7 @@
 <td>Use Case Scenario Definition, version 2</td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -106,6 +117,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td>31/12/2023</td>
+<td>30/01/2024</td>
 </tr>
 
 <tr>
@@ -113,6 +125,7 @@
 <td>Robot Behavior Specification  version 2</td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -122,6 +135,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td>31/12/2023</td>
+<td></td>
 </tr>
 
 <tr>
@@ -129,6 +143,7 @@
 <td>Visitor Behavior  Specification, version 2</td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -138,6 +153,7 @@
 <td>Wits</td>
 <td>30/09/2025</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -146,6 +162,7 @@
 <td>CMU-Africa</td>
 <td>31/01/2024</td>
 <td>24/01/2024</td>
+<td>21/12/2024</td>
 </tr>
 
 <tr>
@@ -153,6 +170,7 @@
 <td>System Architecture, version 2</td>
 <td>CMU-Africa</td>
 <td>31/12/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -162,6 +180,7 @@
 <td>CMU-Africa</td>
 <td>30/09/2023</td>
 <td>26/10/2023</td>
+<td>13/09/2024</td>
 </tr>
 
 <tr>
@@ -170,6 +189,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td>07/09/2023</td>
+<td>13/09/2024</td>
 </tr>
 
 <tr>
@@ -178,6 +198,7 @@
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
 <td>01/11/2023</td>
+<td>13/09/2024</td>
 </tr>
 
 <tr>
@@ -186,6 +207,7 @@
 <td>CMU-Africa</td>
 <td>30/06/2024</td>
 <td>25/07/2024</td>
+<td></td>
 </tr>
 
 <tr>
@@ -193,6 +215,7 @@
 <td>Use Case Feedback  </td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -202,6 +225,7 @@
 <td>CMU-Africa</td>
 <td>31/10/2023</td>
 <td>02/04/2024</td>
+<td></td>
 </tr>
 
 <tr>
@@ -209,6 +233,7 @@
 <td>Person Detection and Localization </td>
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -218,6 +243,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -225,6 +251,7 @@
 <td>Sound Detection and Localization</td>
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -234,6 +261,7 @@
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -241,6 +269,7 @@
 <td>Camera Calibration</td>
 <td>Wits</td>
 <td>31/12/2023</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -250,6 +279,7 @@
 <td>Wits</td>
 <td>31/03/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -257,6 +287,7 @@
 <td>Speech Event </td>
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -266,6 +297,7 @@
 <td>CMU-Africa</td>
 <td>31/03/2026</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -274,6 +306,7 @@
 <td>CMU-Africa</td>
 <td>31/10/2023</td>
 <td>02/04/2024</td>
+<td></td>
 </tr>
 
 <tr>
@@ -290,6 +323,7 @@
 <td>CMU-Africa</td>
 <td>30/09/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -297,6 +331,7 @@
 <td>Cultural Knowledge Ontology</td>
 <td>Wits</td>
 <td>31/12/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -306,6 +341,7 @@
 <td>Wits</td>
 <td>30/06/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -313,6 +349,7 @@
 <td>Scenario Script Interpreter</td>
 <td>Wits</td>
 <td>31/12/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -322,6 +359,7 @@
 <td>CMU-Africa</td>
 <td>30/09/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -329,6 +367,7 @@
 <td> English Text to Speech Conversion</td>
 <td>Wits</td>
 <td>30/06/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -338,6 +377,7 @@
 <td>Wits</td>
 <td>30/06/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -345,6 +385,7 @@
 <td>Kinyarwanda Text to Speech Conversion </td>
 <td>CMU-Africa</td>
 <td>30/06/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -354,6 +395,7 @@
 <td>Wits</td>
 <td>30/09/2024</td>
 <td></td>
+<td></td>
 </tr>
  
 <tr>
@@ -361,6 +403,7 @@
 <td>Environment Map Generation </td>
 <td>CMU-Africa</td>
 <td>31/03/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -370,6 +413,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -377,6 +421,7 @@
 <td>Use Case Feedback</td>
 <td>CMU-Africa</td>
 <td>31/03/2026</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -386,6 +431,7 @@
 <td>Wits</td>
 <td>31/03/2025</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -393,6 +439,7 @@
 <td>Use Case Evaluation </td>
 <td>Wits</td>
 <td>30/06/2025</td>
+<td></td>
 <td></td>
 </tr>
  
@@ -402,6 +449,7 @@
 <td>Wits</td>
 <td>30/06/2026</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -409,6 +457,7 @@
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D7.1.pdf">Online Presence</a></td>
 <td>CMU-Africa</td>
 <td>30/09/2023</td>
+<td>03/08/2023</td>
 <td>07/08/2023</td>
 </tr>
 
@@ -418,6 +467,7 @@
 <td>Wits</td>
 <td>30/06/2024</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -426,6 +476,7 @@
 <td>CMU-Africa</td>
 <td>30/11/2023</td>
 <td>31/12/2023</td>
+<td></td>
 </tr>
 
 <tr>
@@ -434,6 +485,7 @@
 <td>Wits</td>
 <td>30/04/2026</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -441,6 +493,7 @@
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a>  </td>
 <td>CMU-Africa</td>
 <td>30/06/2024</td>
+<td>31/12/2023</td>
 <td>25/07/2024</td>
 </tr>
 
@@ -450,6 +503,7 @@
 <td>CMU-Africa</td>
 <td>31/12/2023</td>
 <td>31/12/2023</td>
+<td>25/07/2024</td>
 </tr>
 
 <tr>
@@ -457,6 +511,7 @@
 <td>Risk Assessment</td>
 <td>Wits</td>
 <td>30/06/2024</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -466,6 +521,7 @@
 <td>Wits</td>
 <td>31/10/2023</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -473,6 +529,7 @@
 <td>Gender Action Plan</td>
 <td>Wits</td>
 <td>31/10/2023</td>
+<td></td>
 <td></td>
 </tr>
 
