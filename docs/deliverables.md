@@ -9,6 +9,7 @@
 <th  style="min-width: 60px;">Lead</th>
 <th style="min-width: 55px;">Due Date   </th>
 <th style="min-width: 55px;">Submission Date</th>
+<th style="min-width: 55px;">Revision Date</th>
 </tr>
 
 <tr>
