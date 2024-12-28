@@ -1,5 +1,10 @@
 # News
 
+**28 December 2024**   
+A new version  D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf). 
+A new version  D3.4 System Integration and Quality Assurance Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf). 
+These versions provide for the use of the Python programming language. Details of the changes are recorded in the document history.
+
 **21 December 2024**   
 A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   Section 2 Representation of Cultural Knowledge, and Section 3.2 Action and Cultural Parameter Values have been moved to Deliverable D5.4.1.
 
