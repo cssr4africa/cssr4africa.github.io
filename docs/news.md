@@ -1,6 +1,6 @@
 # News
 
-**19 August 2024**   
+**21 December 2024**   
 A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   Section 2 Representation of Cultural Knowledge, and Section 3.2 Action and Cultural Parameter Values have been moved to Deliverable D5.4.1.
 
 **21 December 2024**  
