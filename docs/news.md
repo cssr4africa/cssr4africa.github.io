@@ -1,5 +1,8 @@
 # News
 
+**29 December 2024**   
+A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   A new section on the survey methodology has been added.  
+
 **28 December 2024**   
 A new version  D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf). 
 A new version  D3.4 System Integration and Quality Assurance Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf). 
