@@ -1,5 +1,8 @@
 # News
 
+**30 December 2024**   
+The first version of  deliverable D5.4.1 Cultural Knowledge Ontology & Knowledge Base is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf). 
+
 **29 December 2024**   
 A new version of  deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   A new section on the survey methodology has been added.  
 

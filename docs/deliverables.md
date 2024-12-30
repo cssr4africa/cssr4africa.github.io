@@ -329,10 +329,10 @@
 
 <tr>
 <td>D5.4.1</td>
-<td>Cultural Knowledge Ontology & Knowledge Base</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Knowledge Base</a></td>
 <td>Wits</td>
 <td>31/12/2024</td>
-<td>21/12/2024</td>
+<td>30/12/2024</td>
 <td></td>
 </tr>
 
