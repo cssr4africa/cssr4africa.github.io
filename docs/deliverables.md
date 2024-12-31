@@ -16,7 +16,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td><span style="color:blue">31/12/2023</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -34,7 +34,7 @@
 <td>D1.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></td>
 <td>CMU-Africa</td>
-<td><span style="color:red">31/12/2023</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td>25/10/2023</td>
 <td>29/12/2024</td>
 </tr>
@@ -52,7 +52,7 @@
 <td>D1.3</td>
 <td>African Modes of Social Interaction, version 1</td>
 <td>Wits</td>
-<td><span style="color:blue">31/03/2024</span></td>
+<td><span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 <td>D2.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf">Use Case Scenario Definition, version 1</a></td>
 <td>CMU-Africa</td>
-<td>31/10/2023</td>
+<td<span style="color:black">>31/10/2023</span></td>
 <td>07/11/2023</td>
 <td>09/09/2024</td>
 </tr>
@@ -115,7 +115,7 @@
 <td>D2.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></td>
 <td>CMU-Africa</td>
-<td>31/12/2023</td>
+<td><span style="color:black">31/12/2023</span></td>
 <td>31/12/2023</td>
 <td>30/01/2024</td>
 </tr>
@@ -133,7 +133,7 @@
 <td>D2.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></td>
 <td>CMU-Africa</td>
-<td>31/12/2023</td>
+<td><span style="color:black">31/12/2023</span></td>
 <td>31/12/2023</td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 <td>D3.1</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf">PDF of Fig. 2</a>)</td>
 <td>CMU-Africa</td>
-<td>31/01/2024</td>
+<td><span style="color:black">31/01/2024</span></td>
 <td>24/01/2024</td>
 <td>21/12/2024</td>
 </tr>
@@ -178,11 +178,12 @@
 <td>D3.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></td>
 <td>CMU-Africa</td>
-<td>30/09/2023</td>
+<td><span style="color:black">30/09/2023</span></td>
 <td>26/10/2023</td>
 <td>03/12/2024</td>
 </tr>
 
+<span style="color:black">
 <tr>
 <td>D3.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
@@ -191,6 +192,7 @@
 <td>07/09/2023</td>
 <td>13/09/2024</td>
 </tr>
+</span>
 
 <tr>
 <td>D3.4</td>
