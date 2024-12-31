@@ -13,9 +13,9 @@
 </tr>
 
 <tr>
-<td>D1.1</td>
-<td>South African Cultural Knowledge, version 1</td>
-<td>Wits</td>
+<td><span style="color:black">D1.1</span></td>
+<td><span style="color:black">South African Cultural Knowledge, version 1</span></td>
+<td><span style="color:black">Wits</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
@@ -31,9 +31,9 @@
 </tr>
 
 <tr>
-<td>D1.2</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></td>
-<td>CMU-Africa</td>
+<td><span style="color:black">D1.2</td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td>25/10/2023</td>
 <td>29/12/2024</td>
@@ -175,15 +175,14 @@
 </tr>
 
 <tr>
-<td>D3.2</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></td>
-<td>CMU-Africa</td>
+<td><span style="color:black">D3.2</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2023</span></td>
 <td>26/10/2023</td>
 <td>03/12/2024</td>
 </tr>
-
-<span style="color:black">
+ 
 <tr>
 <td>D3.3</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
@@ -192,7 +191,6 @@
 <td>07/09/2023</td>
 <td>13/09/2024</td>
 </tr>
-</span>
 
 <tr>
 <td>D3.4</td>
@@ -303,11 +301,11 @@
 </tr>
 
 <tr>
-<td>D5.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf">Actuator Tests </a></td>
-<td>CMU-Africa</td>
-<td>31/10/2023</td>
-<td>02/04/2024</td>
+<td><span style="color:black">D5.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf">Actuator Tests </a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/10/2023</span></td>
+<td><span style="color:black">02/04/2024</span></td>
 <td></td>
 </tr>
 
@@ -358,10 +356,10 @@
 
 <tr>
 <td>D5.5.1</td>
-<td>Gesture Execution</td>
+<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.pdf">Gesture Execution</a></td>
 <td>CMU-Africa</td>
 <td>30/09/2024</td>
-<td></td>
+<td>10/10/2024</td>
 <td></td>
 </tr>
 
