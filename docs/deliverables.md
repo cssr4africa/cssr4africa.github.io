@@ -239,7 +239,7 @@
 
 <tr>
 <td><span style="color:black">D4.2.2</span></td>
-<td><span style="color:black">Face and Eye Detection and Localization</span></td>
+<td><span style="color:black">Face & Mutual Gaze Dectection and Localization</span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td></td>
