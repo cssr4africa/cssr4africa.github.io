@@ -311,7 +311,7 @@
 
 <tr>
 <td><span style="color:black">D5.2</span></td>
-<td><span style="color:black">Animate Behavior Subsystem</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.2.pdf">Animate Behavior Subsystem</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
 <td></td>
