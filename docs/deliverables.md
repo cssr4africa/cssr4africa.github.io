@@ -115,7 +115,7 @@
 <td><span style="color:black">D2.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
-<td><span style="color:black">31/12/2023</span></span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">30/01/2024</span></td>
 </tr>
@@ -133,7 +133,7 @@
 <td><span style="color:black">D2.3</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
-<td><span style="color:black"><span style="color:black">31/12/2023</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 <td><span style="color:black">D3.1</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf">PDF of Fig. 2</a>)</span></td>
 <td><span style="color:black">CMU-Africa</span></td>
-<td><span style="color:black"><span style="color:black">31/01/2024</span></td>
+<td><span style="color:black">31/01/2024</span></td>
 <td><span style="color:black">24/01/2024</span></td>
 <td><span style="color:black">21/12/2024</span></td>
 </tr>
@@ -347,7 +347,7 @@
 
 <tr>
 <td><span style="color:black">D5.4.3</span></td>
-<td><span style="color:black">Robot Mission Interpreter</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf">Robot Mission Interpreter</a></span></td>
 <td><span style="color:black">Wits</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td></td>
