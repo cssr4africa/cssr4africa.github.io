@@ -52,7 +52,7 @@
 <td>D1.3</td>
 <td>African Modes of Social Interaction, version 1</td>
 <td>Wits</td>
-<td>span style="color:black">31/03/2024</span></td>
+<td>span style="color:blue">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -70,7 +70,7 @@
 <td>D1.4</td>
 <td>Africa-centric Design Patterns, version 1</td>
 <td>Wits</td>
-<td>31/03/2024</td>
+<td>span style="color:blue">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
