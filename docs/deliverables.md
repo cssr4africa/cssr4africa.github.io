@@ -97,7 +97,7 @@
 <td><span style="color:black">D2.1</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf">Use Case Scenario Definition, version 1</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
-<td<span style="color:black">>31/10/2023</span></td>
+<td><span style="color:black">31/10/2023</span></td>
 <td><span style="color:black">07/11/2023</span></td>
 <td><span style="color:black">09/09/2024</span></td>
 </tr>
