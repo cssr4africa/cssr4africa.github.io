@@ -16,7 +16,7 @@
 <td>D1.1</td>
 <td>South African Cultural Knowledge, version 1</td>
 <td>Wits</td>
-<td><span style="color:red">31/12/2023</span></td>
+<td><span style="color:blue">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -34,7 +34,7 @@
 <td>D1.2</td>
 <td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></td>
 <td>CMU-Africa</td>
-<td>31/12/2023</td>
+<td><span style="color:red">31/12/2023</span></td>
 <td>25/10/2023</td>
 <td>29/12/2024</td>
 </tr>
@@ -52,7 +52,7 @@
 <td>D1.3</td>
 <td>African Modes of Social Interaction, version 1</td>
 <td>Wits</td>
-<td>31/03/2024</td>
+<td>span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
