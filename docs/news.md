@@ -1,7 +1,8 @@
 # News
 
 **31 December 2024**   
-The first version of  deliverable D5.2 Animate Behavior Systems is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.2.pdf).  
+The first version of  deliverable D5.2 Animate Behavior Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.2.pdf).  
+The first version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).  
 The first version of  deliverable D5.4.3 Robot Mission Interpreter is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).  
 The first version of  deliverable D5.5.1 Gesture Execution is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.pdf).   
 

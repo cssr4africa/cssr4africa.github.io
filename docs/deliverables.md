@@ -320,10 +320,10 @@
 
 <tr>
 <td><span style="color:black">D5.3</span></td>
-<td><span style="color:black">Attention Subsystem</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf">Attention Subsystem</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
-<td></td>
+<td><span style="color:black">20/12/2024</span></td>
 <td></td>
 </tr>
 
