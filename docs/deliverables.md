@@ -31,12 +31,12 @@
 </tr>
 
 <tr>
-<td><span style="color:black">D1.2</td>
+<td><span style="color:black">D1.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf">Rwandan Cultural Knowledge, version 1</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td>25/10/2023</td>
-<td>29/12/2024</td>
+<td><span style="color:black">25/10/2023</span></td>
+<td><span style="color:black">29/12/2024</span></td>
 </tr>
 
 <tr>
@@ -328,38 +328,38 @@
 </tr>
 
 <tr>
-<td>D5.4.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Knowledge Base</a></td>
-<td>Wits</td>
-<td>31/12/2024</td>
-<td>30/12/2024</td>
+<td><span style="color:black">D5.4.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Knowledge Base</a></span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/12/2024</span></td>
+<td><span style="color:black">30/12/2024</span></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.4.2</td>
-<td>Scenario Script Language</td>
-<td>Wits</td>
-<td>30/06/2024</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>D5.4.3</td>
-<td>Scenario Script Interpreter</td>
-<td>Wits</td>
-<td>31/12/2024</td>
+<td><span style="color:black">D5.4.2</span></td>
+<td><span style="color:black">Robot Mission Language</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.5.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.pdf">Gesture Execution</a></td>
-<td>CMU-Africa</td>
-<td>30/09/2024</td>
-<td>10/10/2024</td>
+<td><span style="color:black">D5.4.3</span></td>
+<td><span style="color:black">Robot Mission Interpreter</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/12/2024</span></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><span style="color:black">D5.5.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.pdf">Gesture Execution</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/09/2024</span></td>
+<td><span style="color:black">10/10/2024</span></td>
 <td></td>
 </tr>
 
