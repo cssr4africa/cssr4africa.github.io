@@ -94,12 +94,12 @@
 </tr>
 
 <tr>
-<td>D2.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf">Use Case Scenario Definition, version 1</a></td>
-<td>CMU-Africa</td>
+<td><span style="color:black">D2.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf">Use Case Scenario Definition, version 1</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
 <td<span style="color:black">>31/10/2023</span></td>
-<td>07/11/2023</td>
-<td>09/09/2024</td>
+<td><span style="color:black">07/11/2023</span></td>
+<td><span style="color:black">09/09/2024</span></td>
 </tr>
 
 <tr>
@@ -112,12 +112,12 @@
 </tr>
 
 <tr>
-<td>D2.2</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></td>
-<td>CMU-Africa</td>
+<td><span style="color:black">D2.2</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.2.pdf">Robot Behavior Specification, version 1</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td>31/12/2023</td>
-<td>30/01/2024</td>
+<td><span style="color:black">30/01/2024</span></td>
 </tr>
 
 <tr>
@@ -130,11 +130,11 @@
 </tr>
 
 <tr>
-<td>D2.3</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></td>
-<td>CMU-Africa</td>
+<td><span style="color:black">D2.3</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.3.pdf">Visitor Behavior  Specification, version 1</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black"><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td>31/12/2023</td>
 <td></td>
 </tr>
 
@@ -157,12 +157,12 @@
 </tr>
 
 <tr>
-<td>D3.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf">PDF of Fig. 2</a>)</td>
-<td>CMU-Africa</td>
-<td><span style="color:black">31/01/2024</span></td>
-<td>24/01/2024</td>
-<td>21/12/2024</td>
+<td><span style="color:black">D3.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf">System Architecture, version 1</a> (<a href="https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf">PDF of Fig. 2</a>)</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black"><span style="color:black">31/01/2024</span></td>
+<td><span style="color:black">24/01/2024</span></td>
+<td><span style="color:black">21/12/2024</span></td>
 </tr>
 
 <tr>
@@ -184,29 +184,29 @@
 </tr>
  
 <tr>
-<td>D3.3</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></td>
-<td>CMU-Africa</td>
-<td>31/12/2023</td>
-<td>07/09/2023</td>
-<td>13/09/2024</td>
+<td><span style="color:black">D3.3</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf">Software Installation Manual</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></td>
+<td><span style="color:black">07/09/2023</span></td>
+<td><span style="color:black">13/09/2024</span></td>
 </tr>
 
 <tr>
-<td>D3.4</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf">System Integration and Quality Assurance Manual</a></td>
-<td>CMU-Africa</td>
-<td>31/03/2024</td>
-<td>01/11/2023</td>
-<td>03/12/2024</td>
+<td><span style="color:black">D3.4</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.4.pdf">System Integration and Quality Assurance Manual</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/03/2024</span></td>
+<td><span style="color:black">01/11/2023</span></td>
+<td><span style="color:black">03/12/2024</span></td>
 </tr>
 
 <tr>
-<td>D3.5</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf">System Integration and Quality Assurance </a></td>
-<td>CMU-Africa</td>
-<td>30/06/2024</td>
-<td>25/07/2024</td>
+<td><span style="color:black">D3.5</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf">System Integration and Quality Assurance </a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/06/2024</span></td>
+<td><span style="color:black">25/07/2024</span></td>
 <td></td>
 </tr>
 
@@ -220,73 +220,73 @@
 </tr>
 
 <tr>
-<td>D4.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf">Sensor Tests</a> </td>
-<td>CMU-Africa</td>
-<td>31/10/2023</td>
-<td>02/04/2024</td>
+<td><span style="color:black">D4.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf">Sensor Tests</a> </span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/10/2023</span></td>
+<td><span style="color:black">02/04/2024</span></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.2.1</td>
-<td>Person Detection and Localization </td>
-<td>CMU-Africa</td>
-<td>31/12/2023</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>D4.2.2</td>
-<td>Face and Eye Detection and Localization</td>
-<td>CMU-Africa</td>
-<td>31/12/2023</td>
+<td><span style="color:black">D4.2.1</span></td>
+<td><span style="color:black">Person Detection and Localization</span> </td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.2.3</td>
-<td>Sound Detection and Localization</td>
-<td>CMU-Africa</td>
-<td>31/12/2023</td>
+<td><span style="color:black">D4.2.2</span></td>
+<td><span style="color:black">Face and Eye Detection and Localization</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.2.4</td>
-<td>Robot Localization </td>
-<td>CMU-Africa</td>
-<td>31/03/2024</td>
+<td><span style="color:black">D4.2.3<</span>/td>
+<td><span style="color:black">Sound Detection and Localization</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.2.5</td>
-<td>Camera Calibration</td>
-<td>Wits</td>
-<td>31/12/2023</td>
+<td><span style="color:black">D4.2.4</span></td>
+<td><span style="color:black">Robot Localization </span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.3.1</td>
-<td>Tablet PC Event </td>
-<td>Wits</td>
-<td>31/03/2024</td>
+<td><span style="color:black">D4.2.5</span></td>
+<td><span style="color:black">Camera Calibration</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D4.3.2</td>
-<td>Speech Event </td>
-<td>CMU-Africa</td>
-<td>31/03/2024</td>
+<td><span style="color:black">D4.3.1</span></td>
+<td><span style="color:black">Tablet PC Event </span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/03/2024</span></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><span style="color:black">D4.3.2</span></td>
+<td><span style="color:black">Speech Event </span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -310,19 +310,19 @@
 </tr>
 
 <tr>
-<td>D5.2</td>
-<td>Animate Behavior Subsystem</td>
-<td>CMU-Africa</td>
-<td>31/03/2024</td>
+<td><span style="color:black">D5.2</span></td>
+<td><span style="color:black">Animate Behavior Subsystem</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.3</td>
-<td>Attention Subsystem</td>
-<td>CMU-Africa</td>
-<td>30/09/2024</td>
+<td><span style="color:black">D5.3</span></td>
+<td><span style="color:black">Attention Subsystem</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/09/2024</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -364,55 +364,55 @@
 </tr>
 
 <tr>
-<td>D5.5.2.1</td>
-<td> English Text to Speech Conversion</td>
-<td>Wits</td>
-<td>30/06/2024</td>
+<td><span style="color:black">D5.5.2.1</span></td>
+<td> <span style="color:black">English Text to Speech Conversion</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.5.2.2</td>
-<td>isiZulu Text to Speech Conversion </td>
-<td>Wits</td>
-<td>30/06/2024</td>
+<td><span style="color:black">D5.5.2.2</span></td>
+<td><span style="color:black">isiZulu Text to Speech Conversion </span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.5.2.3</td>
-<td>Kinyarwanda Text to Speech Conversion </td>
-<td>CMU-Africa</td>
-<td>30/06/2024</td>
+<td><span style="color:black">D5.5.2.3</span></td>
+<td><span style="color:black">Kinyarwanda Text to Speech Conversion </span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.5.2.4</td>
-<td>Integrated Text to Speech Conversion </td>
-<td>Wits</td>
-<td>30/09/2024</td>
+<td><span style="color:black">D5.5.2.4</span></td>
+<td><span style="color:black">Integrated Text to Speech Conversion </span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/09/2024</span></td>
 <td></td>
 <td></td>
 </tr>
  
 <tr>
-<td>D5.5.3</td>
-<td>Environment Map Generation </td>
-<td>CMU-Africa</td>
-<td>31/03/2024</td>
+<td><span style="color:black">D5.5.3</span></td>
+<td><span style="color:black">Environment Map Generation </span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/03/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D5.5.4</td>
-<td>Robot Navigation</td>
-<td>CMU-Africa</td>
-<td>31/12/2024</td>
+<td><span style="color:black">D5.5.4</span></td>
+<td><span style="color:black">Robot Navigation</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2024</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -454,29 +454,29 @@
 </tr>
 
 <tr>
-<td>D7.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D7.1.pdf">Online Presence</a></td>
-<td>CMU-Africa</td>
-<td>30/09/2023</td>
-<td>03/08/2023</td>
-<td>07/08/2023</td>
+<td><span style="color:black">D7.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D7.1.pdf">Online Presence</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/09/2023</span></td>
+<td><span style="color:black">03/08/2023</span></td>
+<td><span style="color:black">07/08/2023</span></td>
 </tr>
 
 <tr>
-<td>D7.2</td>
-<td>Dissemination Activities</td>
-<td>Wits</td>
-<td>30/06/2024</td>
+<td><span style="color:black">D7.2</span></td>
+<td><span style="color:black">Dissemination Activities</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D7.3</td>
-<td> <a href="https://github.com/cssr4africa/cssr4africa"> Open-Source Software Repository</a></td>
-<td>CMU-Africa</td>
-<td>30/11/2023</td>
-<td>31/12/2023</td>
+<td><span style="color:black">D7.3</span></td>
+<td> <span style="color:black"><a href="https://github.com/cssr4africa/cssr4africa"> Open-Source Software Repository</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/11/2023</span></td>
+<td><span style="color:black">31/12/2023</span></td>
 <td></td>
 </tr>
 
@@ -490,46 +490,46 @@
 </tr>
 
 <tr>
-<td>D8.1</td>
-<td><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a>  </td>
-<td>CMU-Africa</td>
-<td>30/06/2024</td>
-<td>31/12/2023</td>
-<td>25/07/2024</td>
+<td><span style="color:black">D8.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.pdf">Progress Report</a> </span> </td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">30/06/2024</span></td>
+<td><span style="color:black">31/12/2023</span></td>
+<td><span style="color:black">25/07/2024</span></td>
 </tr>
 
 <tr>
-<td>D8.2</td>
-<td>Expenditure Report</td>
-<td>CMU-Africa</td>
-<td>31/12/2023</td>
-<td>31/12/2023</td>
-<td>25/07/2024</td>
+<td><span style="color:black">D8.2</span></td>
+<td><span style="color:black">Expenditure Report</span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">31/12/2023</span></td>
+<td><span style="color:black">31/12/2023</span></td>
+<td><span style="color:black">25/07/2024</span></td>
 </tr>
 
 <tr>
-<td>D8.3</td>
-<td>Risk Assessment</td>
-<td>Wits</td>
-<td>30/06/2024</td>
+<td><span style="color:black">D8.3</span></td>
+<td><span style="color:black">Risk Assessment</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D8.4</td>
-<td>Consortium Agreement </td>
-<td>Wits</td>
-<td>31/10/2023</td>
+<td><span style="color:black">D8.4</span></td>
+<td><span style="color:black">Consortium Agreement </span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/10/2023</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>D8.5</td>
-<td>Gender Action Plan</td>
-<td>Wits</td>
-<td>31/10/2023</td>
+<td><span style="color:black">D8.5</span></td>
+<td><span style="color:black">Gender Action Plan</span></td>
+<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">31/10/2023</span></td>
 <td></td>
 <td></td>
 </tr>
