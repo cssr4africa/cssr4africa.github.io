@@ -247,7 +247,7 @@
 </tr>
 
 <tr>
-<td><span style="color:black">D4.2.3<</span>/td>
+<td><span style="color:black">D4.2.3</span>/td>
 <td><span style="color:black">Sound Detection and Localization</span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
