@@ -364,6 +364,15 @@
 </tr>
 
 <tr>
+<td><span style="color:black">D5.5.1.L</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.L.pdf">Programming by Demonstration</a></span></td>
+<td><span style="color:black">CMU-Africa</span></td>
+<td><span style="color:black">09/12/2024</span></td>
+<td><span style="color:black">09/12/2024</span></td>
+<td><span style="color:black">16/12/2024</span></td>
+</tr>
+
+<tr>
 <td><span style="color:black">D5.5.2.1</span></td>
 <td> <span style="color:black">English Text to Speech Conversion</span></td>
 <td><span style="color:black">Wits</span></td>
