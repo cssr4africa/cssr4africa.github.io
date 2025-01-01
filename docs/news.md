@@ -3,7 +3,7 @@
 **1 January 2025**   
 A new unplanned deliverable D5.5.1.L Programming by Demonstration is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.L.pdf).  
 A new version  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
-Sensor topics for overtAttention, personDetection, and robotLocalization have been updated to remove the stereo camera and add the RealSense camera .The system architecture diagram has been amended accordingly.  
+Sensor topics for overtAttention, personDetection, and robotLocalization have been updated to remove the stereo camera and add the RealSense camera. The system architecture diagram has been amended accordingly.  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are mainly to fix inconsistencies in the newly renamed Face & Mutual Gaze Detection and Localization task and deliverable.
 
 **31 December 2024**   
