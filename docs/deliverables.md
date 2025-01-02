@@ -179,8 +179,8 @@
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2023</span></td>
-<td>26/10/2023</td>
-<td>03/12/2024</td>
+<td><span style="color:black">26/10/2023</span></td>
+<td><span style="color:black">03/12/2024</span></td>
 </tr>
  
 <tr>
@@ -239,7 +239,7 @@
 
 <tr>
 <td><span style="color:black">D4.2.2</span></td>
-<td><span style="color:black">Face & Mutual Gaze Dectection and Localization</span></td>
+<td><span style="color:black">Face & Mutual Gaze Detection and Localization</span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td></td>
