@@ -1,5 +1,8 @@
 # News
 
+**2 January 2025**   
+The third periodic report for July 2024 - December 2024 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.3.pdf).  
+
 **1 January 2025**   
 A new unplanned deliverable D5.5.1.L Programming by Demonstration is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.L.pdf).  
 A new version  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
