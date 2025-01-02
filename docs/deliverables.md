@@ -330,7 +330,7 @@
 <tr>
 <td><span style="color:black">D5.4.1</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Knowledge Base</a></span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">30/12/2024</span></td>
 <td></td>
@@ -339,7 +339,7 @@
 <tr>
 <td><span style="color:black">D5.4.2</span></td>
 <td><span style="color:black">Robot Mission Language</span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
@@ -348,7 +348,7 @@
 <tr>
 <td><span style="color:black">D5.4.3</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf">Robot Mission Interpreter</a></span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">16/12/2024</span></td>
 <td></td>
@@ -375,7 +375,7 @@
 <tr>
 <td><span style="color:black">D5.5.2.1</span></td>
 <td> <span style="color:black">English Text to Speech Conversion</span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td></td>
 <td></td>
@@ -402,7 +402,7 @@
 <tr>
 <td><span style="color:black">D5.5.2.4</span></td>
 <td><span style="color:black">Integrated Text to Speech Conversion </span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td></td>
 <td></td>
