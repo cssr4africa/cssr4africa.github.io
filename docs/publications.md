@@ -1,5 +1,7 @@
 ## Publications
 
+A. Akinade, D. Barros, and D. Vernon, "Biological Motion Aids Gestural Communication by Humanoid Social Robots", International Journal of Humanoid Robotics, Accepted for publication, January 04, 2025. Available [here](https://cssr4africa.github.io/publications/2025_Akinade_Barros_Vernon.pdf).
+
 D. Vernon, 2024. "An African Perspective on Culturally Competent Social Robotics: Why DEI Matters in HRI", IEEE Robotics and Automation Magazine, Vol. 31, No. 4, pp. 170-200. Available [here](https://cssr4africa.github.io/publications/2024_Vernon.pdf).
  
 A. Akinade, Y. Haile, N. Mutangana C. Tucker, and D. Vernon, "Culturally Competent Social Robots Target Inclusion in Africa", Science Robotics, 2023.  Available [here](https://cssr4africa.github.io/publications/2023_Akinade_et_al.pdf).

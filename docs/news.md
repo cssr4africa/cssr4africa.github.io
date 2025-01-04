@@ -1,4 +1,6 @@
 # News
+**4 January 2025**   
+Paper accepted:  A. Akinade, D. Barros, and D. Vernon, "Biological Motion Aids Gestural Communication by Humanoid Social Robots", International Journal of Humanoid Robotics, accepted for publication, January 04, 2025; available [here](https://cssr4africa.github.io/publications/2025_Akinade_Barros_Vernon.pdf).  
 
 **2 January 2025**   
 The third periodic report for July 2024 - December 2024 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.3.pdf).  
