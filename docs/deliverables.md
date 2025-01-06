@@ -355,21 +355,21 @@
 </tr>
 
 <tr>
-<td><span style="color:black">D5.5.1</span></td>
-<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.pdf">Gesture Execution</a></span></td>
+<td><span style="color:black">D5.5.1.1</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf">Gesture Execution</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
-<td><span style="color:black">10/10/2024</span></td>
+<td><span style="color:black">06/01/2025</span></td>
 <td></td>
 </tr>
 
 <tr>
 <td><span style="color:black">D5.5.1.L</span></td>
-<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.L.pdf">Programming by Demonstration</a></span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.2.pdf">Programming by Demonstration</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">09/12/2024</span></td>
 <td><span style="color:black">09/12/2024</span></td>
-<td><span style="color:black">16/12/2024</span></td>
+<td><span style="color:black">06/01/2025</span></td>
 </tr>
 
 <tr>
