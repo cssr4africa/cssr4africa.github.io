@@ -364,7 +364,7 @@
 </tr>
 
 <tr>
-<td><span style="color:black">D5.5.1.L</span></td>
+<td><span style="color:black">D5.5.1.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.2.pdf">Programming by Demonstration</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">09/12/2024</span></td>
