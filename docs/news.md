@@ -3,7 +3,7 @@
 A new poster describing the project is now available [here](https://cssr4africa.github.io/posters/CSSR4Africa_Overview.pdf).
 
 **6 January 2025**   
-Deliverables D5.5.1 and D5.5.1.L have been renumbered [D5.5.1.1](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf) and [D5.1.1.2](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf)  respectively. The [work plan](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) has been updated accordingly.
+Deliverables D5.5.1 and D5.5.1.L have been renumbered [D5.5.1.1](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf) and [D5.5.1.2](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.2.pdf)  respectively. The [work plan](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) has been updated accordingly.
 
 **4 January 2025**   
 Paper accepted:  A. Akinade, D. Barros, and D. Vernon, "Biological Motion Aids Gestural Communication by Humanoid Social Robots", International Journal of Humanoid Robotics, accepted for publication, January 04, 2025; available [here](https://cssr4africa.github.io/publications/2025_Akinade_Barros_Vernon.pdf).  
