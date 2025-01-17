@@ -1,5 +1,5 @@
 # News
-**17 January 2025**
+**17 January 2025**  
 A new poster describing the project is now available in [here](https://cssr4africa.github.io/posters/CSSR4Africa_Overview.pdf).
 
 **6 January 2025**   
