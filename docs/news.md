@@ -1,4 +1,7 @@
 # News
+**17 January 2025**
+A new poster describing the project is now available in [here](https://cssr4africa.github.io/posters/CSSR4Africa.pdf).
+
 **6 January 2025**   
 Deliverables D5.5.1 and D5.5.1.L have been renumbered [D5.5.1.1](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf) and [D5.1.1.2](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf)  respectively. The [work plan](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) has been updated accordingly.
 
@@ -44,6 +47,9 @@ The system architecture diagram has been amended accordingly.
 
 **20 December 2024**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history. They address new functionality in the overtAttention node to prioritize detected faces when scanning the environment for general features, in the gestureExecution node to include head movement to complement pointing gestures, and in the faceDetection node to remove eye detection and add mutual gaze detection.  
+
+**12 December 2024**
+Paper published: D. Vernon, 2024. "An African Perspective on Culturally Competent Social Robotics: Why DEI Matters in HRI", IEEE Robotics and Automation Magazine, Vol. 31, No. 4, pp. 170-200. Available [here](https://cssr4africa.github.io/publications/2024_Vernon.pdf).
 
 **16 October 2024**   
 The first keynote talk at the [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/) featured the CSSR4Africa project.  Research Associates and research assistants working on the CSSR4Africa project also gave lightning presentations focussing on core elements of the research.  These presentations, along with accompanying abstracts and posters, are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
