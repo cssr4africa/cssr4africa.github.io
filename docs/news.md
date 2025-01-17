@@ -48,7 +48,7 @@ The system architecture diagram has been amended accordingly.
 **20 December 2024**  
 A new version the CSSR4Africa work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).  The changes are recorded in the document history. They address new functionality in the overtAttention node to prioritize detected faces when scanning the environment for general features, in the gestureExecution node to include head movement to complement pointing gestures, and in the faceDetection node to remove eye detection and add mutual gaze detection.  
 
-**12 December 2024**
+**12 December 2024**  
 Paper published: D. Vernon, 2024. "An African Perspective on Culturally Competent Social Robotics: Why DEI Matters in HRI", IEEE Robotics and Automation Magazine, Vol. 31, No. 4, pp. 170-200. Available [here](https://cssr4africa.github.io/publications/2024_Vernon.pdf).
 
 **16 October 2024**   
