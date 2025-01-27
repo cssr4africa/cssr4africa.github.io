@@ -267,7 +267,7 @@
 <tr>
 <td><span style="color:black">D4.2.5</span></td>
 <td><span style="color:black">Camera Calibration</span></td>
-<td><span style="color:black">Wits</span></td>
+<td><span style="color:black">Wits </span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td></td>
 <td></td>
