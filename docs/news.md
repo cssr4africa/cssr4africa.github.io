@@ -1,4 +1,7 @@
 # News
+**27 January 2025**   
+A new version the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) with updated Deliverables D5.4.1 and D5.4.2.
+
 **21 January 2025**   
 A new version the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) and new version  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  
 
