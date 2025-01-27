@@ -1,6 +1,7 @@
 # News
 **27 January 2025**   
 A new version the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) with updated Deliverables D5.4.1 and D5.4.2.   
+A new version  D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).  
 The  CMU-Africa team meeting agendas and minutes of meetings in 2025 are now available on the [wiki](https://github.com/cssr4africa/cssr4africa.github.io/wiki/CMU%E2%80%90Africa-Team-Meetings).
 
 **21 January 2025**   
