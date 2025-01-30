@@ -1,4 +1,7 @@
 # News
+**30 January 2025**   
+A new version the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version limits support for the simulator and identifies the tasks and deliverables affected.   
+
 **27 January 2025**   
 A new version the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf) with updated Deliverables D5.4.1 and D5.4.2.   
 A new version  D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).  
