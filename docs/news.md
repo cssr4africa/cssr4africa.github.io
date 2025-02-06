@@ -1,4 +1,10 @@
 # News  
+**6 February 2025**   
+The [cssr_system](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system) and [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests) package of the cssr4africa software is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
+Version 1.0 of the animateBehaviour [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/animateBehaviour) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/animateBehaviourTest) is now available.  
+Version 1.0 of the gestureExecution [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/gestureExecution) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/gestureExecutionTest) is now available.  
+Version 1.0 of the overtAttention [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/overtAttention) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/overtAttentionTest) is now available.
+
 **1 February 2025**   
 Version 2.0 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version limits support for the simulator.  
 
