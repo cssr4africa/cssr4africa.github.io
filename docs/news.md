@@ -1,4 +1,7 @@
 # News  
+**7 February 2025**   
+A new version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).  
+
 **6 February 2025**   
 The [cssr_system](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system) and [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests) package of the cssr4africa software is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
 Version 1.0 of the animateBehaviour [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/animateBehaviour) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/animateBehaviourTest) is now available.  
