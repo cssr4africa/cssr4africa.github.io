@@ -20,7 +20,7 @@ I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Cu
 
 ## Posters
 
-Culturally Sensitive Social Robotics for Africa [Overview](https://cssr4africa.github.io/posters/CSSR4Africa_Overview.pdf)
+A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/), Workshop at IEEE/ACM HRI 2025. Available [here](https://cssr4africa.github.io/posters/2025_Cultural_Robotics_Workshop_Akinade_et_al_poster.pdf).  
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/posters/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon_poster.pdf).  
 
