@@ -1,4 +1,7 @@
 # News  
+**17 February 2025**   
+A new version of  deliverable D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf).  
+
 **7 February 2025**   
 A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
 A new version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).  

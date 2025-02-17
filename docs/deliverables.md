@@ -180,7 +180,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2023</span></td>
 <td><span style="color:black">26/10/2023</span></td>
-<td><span style="color:black">03/12/2024</span></td>
+<td><span style="color:black">17/02/2025</span></td>
 </tr>
  
 <tr>
