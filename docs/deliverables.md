@@ -332,8 +332,8 @@
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Culture Knowledge Base</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">31/12/2024</span></td>
-<td><span style="color:black">10/02/2025</span></td>
-<td></td>
+<td><span style="color:black">21/12/2024</span></td>
+<td><span style="color:black">18/02/2025</span></td>
 </tr>
 
 <tr>
