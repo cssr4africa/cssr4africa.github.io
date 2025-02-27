@@ -3,6 +3,7 @@
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
 A new version of deliverable D4.2.1 Person Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.1.pdf).   
 Deliverable D4.2.2 Face & Mutual Gaze Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.2.pdf).   
+Deliverable D4.2.3 Sound Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.3.pdf).   
 Deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
 Deliverable D5.5.4 Robot Navigation is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf).   
 
