@@ -1,7 +1,8 @@
 # News  
 **27 February 2025**   
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
-Deliverable D5.5.4 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf).   
+Deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
+Deliverable D5.5.4 Robot Navigation is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf).   
 
 **25 February 2025**   
 A new version of D5.4.1 Cultural Knowledge Ontology & Knowledge Base is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).   

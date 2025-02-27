@@ -284,10 +284,10 @@
 
 <tr>
 <td><span style="color:black">D4.3.2</span></td>
-<td><span style="color:black">Speech Event </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf">Speech Event </a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
-<td></td>
+<td><span style="color:black">20/02/2025</span></td>
 <td></td>
 </tr>
 
