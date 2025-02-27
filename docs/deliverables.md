@@ -422,7 +422,7 @@
 <td><span style="color:black">Robot Navigation</span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
-<td></td>
+<td><span style="color:black">26/02/2025</span></td>
 <td></td>
 </tr>
 
