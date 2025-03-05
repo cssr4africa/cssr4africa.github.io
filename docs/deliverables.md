@@ -333,7 +333,7 @@
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">21/12/2024</span></td>
-<td><span style="color:black">25/02/2025</span></td>
+<td><span style="color:black">03/03/2025</span></td>
 </tr>
 
 <tr>
@@ -341,7 +341,7 @@
 <td><span style="color:black">Robot Mission Language</span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
-<td></td>
+<td><span style="color:black">05/02/2025</span></td>
 <td></td>
 </tr>
 
