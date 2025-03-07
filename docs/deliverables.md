@@ -374,7 +374,7 @@
 
 <tr>
 <td><span style="color:black">D5.5.2.1</span></td>
-<td> <span style="color:black">English Text to Speech Conversion</span></td>
+<td> <span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf">English Text to Speech Conversion</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">02/03/2024</span></td>
@@ -392,7 +392,7 @@
 
 <tr>
 <td><span style="color:black">D5.5.2.3</span></td>
-<td><span style="color:black">Kinyarwanda Text to Speech Conversion </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf">Kinyarwanda Text to Speech Conversion</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">02/03/2024</span></td>
