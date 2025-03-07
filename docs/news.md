@@ -1,4 +1,8 @@
 # News  
+**7 March 2025**
+Deliverable D5.5.2.1 English Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf).   
+Deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
+
 **27 February 2025**   
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
 A new version of deliverable D4.2.1 Person Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.1.pdf).   
