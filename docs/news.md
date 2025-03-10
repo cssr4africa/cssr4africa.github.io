@@ -1,4 +1,7 @@
 # News  
+**10 March 2025**
+A new version  D2.1 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  
+
 **7 March 2025**
 Deliverable D5.5.2.1 English Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf).   
 Deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
