@@ -1,5 +1,8 @@
 # News  
 **10 March 2025**
+A first version of Deliverable D5.4.2 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+
+**10 March 2025**
 A new version  D2.1 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  
 
 **7 March 2025**
