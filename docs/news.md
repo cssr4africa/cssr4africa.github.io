@@ -1,5 +1,8 @@
 # News  
 **6 February 2025**   
+The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) software for the visualization of the cssr4africa cultural knowledge is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
+
+**6 February 2025**   
 The [cssr_system](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system) and [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests) package of the cssr4africa software is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
 Version 1.0 of the animateBehaviour [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/animateBehaviour) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/animateBehaviourTest) is now available.  
 Version 1.0 of the gestureExecution [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/gestureExecution) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/gestureExecutionTest) is now available.  
