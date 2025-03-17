@@ -36,7 +36,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">25/10/2023</span></td>
-<td><span style="color:black">29/12/2024</span></td>
+<td><span style="color:black">21/02/2025</span></td>
 </tr>
 
 <tr>
@@ -99,7 +99,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/10/2023</span></td>
 <td><span style="color:black">07/11/2023</span></td>
-<td><span style="color:black">09/09/2024</span></td>
+<td><span style="color:black">10/03/2025</span></td>
 </tr>
 
 <tr>
@@ -180,7 +180,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2023</span></td>
 <td><span style="color:black">26/10/2023</span></td>
-<td><span style="color:black">03/12/2024</span></td>
+<td><span style="color:black">11/03/2025</span></td>
 </tr>
  
 <tr>
@@ -189,7 +189,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">07/09/2023</span></td>
-<td><span style="color:black">13/09/2024</span></td>
+<td><span style="color:black">11/03/2025</span></td>
 </tr>
 
 <tr>
@@ -207,7 +207,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">25/07/2024</span></td>
-<td></td>
+<td><span style="color:black">27/01/2025</span></td>
 </tr>
 
 <tr>
@@ -234,24 +234,24 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">10/01/2024</span></td>
-<td></td>
+<td><span style="color:black">21/02/2025</span></td>
 </tr>
 
 <tr>
 <td><span style="color:black">D4.2.2</span></td>
-<td><span style="color:black">Face & Mutual Gaze Detection and Localization</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.2.pdf">Face & Mutual Gaze Detection and Localization</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td></td>
+<td><span style="color:black">21/02/2025</span></td>
 <td></td>
 </tr>
 
 <tr>
 <td><span style="color:black">D4.2.3</span></td>
-<td><span style="color:black">Sound Detection and Localization</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.3.pdf">Sound Detection and Localization</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td></td>
+<td><span style="color:black">21/02/2025</span></td>
 <td></td>
 </tr>
 
@@ -260,7 +260,7 @@
 <td><span style="color:black">Robot Localization </span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
-<td></td>
+<td><span style="color:black">15/03/2025</span></td>
 <td></td>
 </tr>
 
@@ -284,11 +284,11 @@
 
 <tr>
 <td><span style="color:black">D4.3.2</span></td>
-<td><span style="color:black">Speech Event </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf">Speech Event </a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
-<td></td>
-<td></td>
+<td><span style="color:black">20/02/2025</span></td>
+<td><span style="color:black">13/03/2025</span></td>
 </tr>
 
 <tr>
@@ -324,25 +324,25 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td><span style="color:black">20/12/2024</span></td>
-<td></td>
+<td><span style="color:black">05/02/2025</span></td>
 </tr>
 
 <tr>
 <td><span style="color:black">D5.4.1</span></td>
-<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Knowledge Base</a></span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Culture Knowledge Base</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">31/12/2024</span></td>
-<td><span style="color:black">30/12/2024</span></td>
-<td></td>
+<td><span style="color:black">21/12/2024</span></td>
+<td><span style="color:black">11/03/2025</span></td>
 </tr>
 
 <tr>
 <td><span style="color:black">D5.4.2</span></td>
-<td><span style="color:black">Robot Mission Language</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf">Robot Mission Language</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
-<td></td>
-<td></td>
+<td><span style="color:black">05/03/2025</span></td>
+<td><span style="color:black">13/03/2025</span></td>
 </tr>
 
 <tr>
@@ -360,7 +360,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td><span style="color:black">10/10/2025</span></td>
-<td><span style="color:black">06/01/2025</span></td>
+<td><span style="color:black">04/02/2025</span></td>
 </tr>
 
 <tr>
@@ -374,10 +374,10 @@
 
 <tr>
 <td><span style="color:black">D5.5.2.1</span></td>
-<td> <span style="color:black">English Text to Speech Conversion</span></td>
+<td> <span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf">English Text to Speech Conversion</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/06/2024</span></td>
-<td></td>
+<td><span style="color:black">02/03/2024</span></td>
 <td></td>
 </tr>
 
@@ -392,11 +392,11 @@
 
 <tr>
 <td><span style="color:black">D5.5.2.3</span></td>
-<td><span style="color:black">Kinyarwanda Text to Speech Conversion </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf">Kinyarwanda Text to Speech Conversion</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
-<td></td>
-<td></td>
+<td><span style="color:black">02/03/2025</span></td>
+<td><span style="color:black">17/03/2025</span></td>
 </tr>
 
 <tr>
@@ -419,10 +419,10 @@
 
 <tr>
 <td><span style="color:black">D5.5.4</span></td>
-<td><span style="color:black">Robot Navigation</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf">Robot Navigation</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
-<td></td>
+<td><span style="color:black">26/02/2025</span></td>
 <td></td>
 </tr>
 

@@ -20,7 +20,7 @@ I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Cu
 
 ## Posters
 
-Culturally Sensitive Social Robotics for Africa [Overview](https://cssr4africa.github.io/posters/CSSR4Africa_Overview.pdf)
+A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", [Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/), Workshop at [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/). Available [here](https://cssr4africa.github.io/posters/2025_Cultural_Robotics_Workshop_Akinade_et_al_poster.pdf).  
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/posters/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon_poster.pdf).  
 
@@ -31,7 +31,9 @@ I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Cu
 P. Zantou and D. Vernon, "Inclusion Drives Sustainable Development: The Case of Social Robotics for Africa", ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies - COMPASS, August 2023. Available [here](https://cssr4africa.github.io/posters/2023_Zantou_Vernon_COMPASS.pdf). Video available [here](https://cssr4africa.github.io/videos/COMPASS_2023.mp4).
 
 
-## Presentations
+## Talks and Presentations
+
+D. Vernon, "An African Perspective on Culturally Competent Social Robotics:  Why DEI Matters in Human-Robot Interaction", [Breaking Barriers Through Technology Webinar](https://engineering.cmu.edu/afretec/events/2025/02/26-vernon-seminar.html), [Afretec Network](https://engineering.cmu.edu/afretec/index.html). Available [here](https://cssr4africa.github.io/presentations/2025_Afretec_Breaking_Barriers_Webinar.pdf).  
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/presentations/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon_lightning_presentation.pdf).  
 

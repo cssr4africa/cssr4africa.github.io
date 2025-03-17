@@ -1,4 +1,47 @@
 # News  
+**17 March 2025**
+A new version of deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
+
+**15 March 2025**
+A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
+Deliverable D4.2.4 Robot Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.4.pdf).   
+
+**13 March 2025**
+A new version of  deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
+A new version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).   
+
+**11 March 2025**
+A new version of  deliverable D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf).  
+A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
+A new version of D5.4.1 Cultural Knowledge Ontology & Knowledge Base is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).   
+A new version of Deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+
+**10 March 2025**
+A new version  D2.1 Use Case Scenario Definition is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D2.1.pdf).  
+
+**7 March 2025**
+Deliverable D5.5.2.1 English Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf).   
+Deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
+
+**27 February 2025**   
+A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
+A new version of deliverable D4.2.1 Person Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.1.pdf).   
+Deliverable D4.2.2 Face & Mutual Gaze Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.2.pdf).   
+Deliverable D4.2.3 Sound Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.3.pdf).   
+Deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
+Deliverable D5.5.4 Robot Navigation is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf).   
+
+**25 February 2025**   
+A new version of D5.4.1 Cultural Knowledge Ontology & Knowledge Base is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).   
+
+**17 February 2025**   
+A new version of  deliverable D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf).  
+A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
+
+**7 February 2025**   
+A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
+A new version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).  
+
 **6 February 2025**   
 The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) software for the visualization of the cssr4africa cultural knowledge is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
 
@@ -6,7 +49,10 @@ The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) 
 The [cssr_system](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system) and [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests) package of the cssr4africa software is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
 Version 1.0 of the animateBehaviour [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/animateBehaviour) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/animateBehaviourTest) is now available.  
 Version 1.0 of the gestureExecution [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/gestureExecution) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/gestureExecutionTest) is now available.  
-Version 1.0 of the overtAttention [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/overtAttention) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/overtAttentionTest) is now available.
+Version 1.0 of the overtAttention [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/overtAttention) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/overtAttentionTest) is now available.  
+
+**4 February 2025**   
+A new version of deliverable D5.5.1.1 Gesture Execution is now available  [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf)
 
 **1 February 2025**   
 Version 2.0 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version limits support for the simulator.  
