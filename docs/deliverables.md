@@ -395,8 +395,8 @@
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf">Kinyarwanda Text to Speech Conversion</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
-<td><span style="color:black">02/03/2024</span></td>
-<td></td>
+<td><span style="color:black">02/03/2025</span></td>
+<td><span style="color:black">17/03/2025</span></td>
 </tr>
 
 <tr>

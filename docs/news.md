@@ -1,4 +1,7 @@
 # News  
+**17 March 2025**
+A new version of deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
+
 **15 March 2025**
 A new version of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
 Deliverable D4.2.4 Robot Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.4.pdf).   
