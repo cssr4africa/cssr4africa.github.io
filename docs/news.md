@@ -1,4 +1,8 @@
 # News  
+
+**6 February 2025**   
+The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) software for the visualization of the cssr4africa cultural knowledge is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
+
 **17 March 2025**
 A new version of deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
 
@@ -41,9 +45,6 @@ A new version of  deliverable D3.3 Software Installation Manual is now available
 **7 February 2025**   
 A new version of  deliverable D3.3 Software Installation Manual is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
 A new version of  deliverable D5.3 Attention Subsystem is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.3.pdf).  
-
-**6 February 2025**   
-The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) software for the visualization of the cssr4africa cultural knowledge is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
 
 **6 February 2025**   
 The [cssr_system](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system) and [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests) package of the cssr4africa software is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
