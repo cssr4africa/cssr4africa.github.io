@@ -260,7 +260,7 @@
 <td><span style="color:black">Robot Localization </span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
-<td></td>
+<td><span style="color:black">15/03/2025</span></td>
 <td></td>
 </tr>
 
