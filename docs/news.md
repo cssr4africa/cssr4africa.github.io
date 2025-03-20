@@ -1,9 +1,9 @@
 # News  
+**20 March 2025**  
+A new version of Deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
 
 **17 March 2025**  
 The [dashboard](https://github.com/cssr4africa/cssr4africa/tree/main/dashboard) software for the visualization of the cssr4africa cultural knowledge is now available in the cssr4africa [software](https://cssr4africa.github.io/software) repository.  
-
-**17 March 2025**
 A new version of deliverable D5.5.2.3 Kinyarwanda Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.3.pdf).   
 
 **15 March 2025**
