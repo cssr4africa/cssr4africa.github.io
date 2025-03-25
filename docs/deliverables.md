@@ -401,10 +401,10 @@
 
 <tr>
 <td><span style="color:black">D5.5.2.4</span></td>
-<td><span style="color:black">Integrated Text to Speech Conversion </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.4.pdf">Integrated Text to Speech Conversion</a></span></td>
 <td><span style="color:black">Wits / CMU</span></td>
 <td><span style="color:black">30/09/2024</span></td>
-<td></td>
+<td><span style="color:black">21/03/2025</span></td>
 <td></td>
 </tr>
  
