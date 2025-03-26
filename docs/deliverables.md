@@ -436,19 +436,19 @@
 </tr>
 
 <tr>
-<<td><span style="color:black">D6.1</span></td>
-<td>Use Case Implementation</td>
-<td>Wits / CMU</td>
-<td>31/03/2025</td>
+<td><span style="color:black">D6.1</span></td>
+<td><span style="color:black">Use Case Implementation</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
+<td><span style="color:black">31/03/2025</span></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<<td><span style="color:black">D6.2</span></td>
-<td>Use Case Evaluation </td>
-<td>Wits / CMU</td>
-<td>30/06/2025</td>
+<td><span style="color:black">D6.2</span></span></td>
+<td><span style="color:black">Use Case Evaluation</span></td>
+<td><span style="color:black">Wits / CMU</span></td>
+<td><span style="color:black">30/06/2025</span></td>
 <td></td>
 <td></td>
 </tr>
