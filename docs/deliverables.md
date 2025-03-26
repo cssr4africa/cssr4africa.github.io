@@ -436,7 +436,7 @@
 </tr>
 
 <tr>
-<td>D6.1</td>
+<<td><span style="color:black">D6.1</span></td>
 <td>Use Case Implementation</td>
 <td>Wits / CMU</td>
 <td>31/03/2025</td>
@@ -445,9 +445,9 @@
 </tr>
 
 <tr>
-<td>D6.2</td>
+<<td><span style="color:black">D6.2</span></td>
 <td>Use Case Evaluation </td>
-<td>Wits</td>
+<td>Wits / CMU</td>
 <td>30/06/2025</td>
 <td></td>
 <td></td>
