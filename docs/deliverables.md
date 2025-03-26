@@ -211,7 +211,7 @@
 </tr>
 
 <tr>
-<td>D3.5</td>
+<td>D3.6</td>
 <td>Use Case Feedback  </td>
 <td>CMU-Africa</td>
 <td>30/09/2025</td>
