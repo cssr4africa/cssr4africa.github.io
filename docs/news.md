@@ -1,4 +1,8 @@
 # News  
+**27 March 2025**   
+Version 1.4 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+Version 1.6 of  deliverable D5.4.3 Robot Mission Interpreter is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).  
+
 **26 March 2025**   
 Version 2.02 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version limits support for the simulator.  
 
