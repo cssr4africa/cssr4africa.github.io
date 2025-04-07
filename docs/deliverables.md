@@ -410,10 +410,10 @@
  
 <tr>
 <td><span style="color:black">D5.5.3</span></td>
-<td><span style="color:black">Environment Map Generation </span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.3.pdf">Environment Map Generation</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
-<td></td>
+<td><span style="color:black">04/04/2025</span></td>
 <td></td>
 </tr>
 
