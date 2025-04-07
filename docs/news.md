@@ -1,10 +1,14 @@
 # News  
+**7 April 2025**   
+Version 3.3 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version addresses changes to D4.2.1 Person Detection and Localization and D4.2.2 Face & Mutual Gaze Detection and Localization.
+Version 2.3 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version addressed changes to the faceDetection and personDetection nodes.
+ 
 **27 March 2025**   
 Version 1.4 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
 Version 1.6 of  deliverable D5.4.3 Robot Mission Interpreter is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).  
 
 **26 March 2025**   
-Version 2.02 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version limits support for the simulator.  
+Version 2.2 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version limits support for the simulator.  
 
 **20 March 2025**  
 A new version of Deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
