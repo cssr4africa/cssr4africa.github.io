@@ -1,4 +1,7 @@
 # News  
+**14 April 2025**   
+A zip file with templates for the software for the cssr_system and unit_tests packages is now available on the wiki in Templates.
+
 **7 April 2025**   
 Version 3.3 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). This version addresses changes to D4.2.1 Person Detection and Localization and D4.2.2 Face & Mutual Gaze Detection and Localization.  
 Version 2.3 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version addressed changes to the faceDetection and personDetection nodes.  
