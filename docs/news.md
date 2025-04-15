@@ -1,4 +1,8 @@
 # News  
+**15 April 2025**   
+Version 2.0 of  deliverable D5.4.1 Cultural Knowledge Ontology & Culture Knowledge Base is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).  
+Version 1.5 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+
 **14 April 2025**   
 A zip file with templates for software for the cssr_system and unit_tests packages is now available on the wiki in [Templates](https://github.com/cssr4africa/cssr4africa.github.io/wiki/Templates).
 
