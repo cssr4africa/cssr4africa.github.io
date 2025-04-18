@@ -1,4 +1,8 @@
 # News  
+**18 April 2025**  
+Deliverable D6.1 Use Case Implementation is  now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf).  
+Version 1.6 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+
 **15 April 2025**   
 Version 2.0 of  deliverable D5.4.1 Cultural Knowledge Ontology & Culture Knowledge Base is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).  
 Version 1.5 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
