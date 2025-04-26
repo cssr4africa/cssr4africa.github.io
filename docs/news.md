@@ -1,4 +1,8 @@
 # News  
+**27 April 2025**  
+Version 1.0 of the faceDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/face_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/face_detection_test) is now available.  
+Version 1.0 of the personDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/person_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/person_detection_test) is now available.  
+
 **18 April 2025**  
 Deliverable D6.1 Use Case Implementation is  now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf).  
 Version 1.6 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
