@@ -8,4 +8,14 @@ Some modules have very large unit test data sets. These data sets are also avail
 
 Instructions on how to install the software can be found in [Deliverable D3.3](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).  
 
-Since the project has just begun, the software comprises only a few rudimentary diagnostic routines at present. 
+ In addition to Pepper sensor and actuator tests, demonstrating how to access sensor data and control actuators on the robot, the following software modules are available.
+
+- Attention Subsystem
+- Animate Behaviour Subsystem
+- Face & Mutual Gaze Detection and Localization
+- Gesture Execution
+- Person Detection and Localization
+
+These modules are documented in the associated [deliverables](https://cssr4africa.github.io/deliverables).
+
+More modules will be added as the integration process proceeds. 
