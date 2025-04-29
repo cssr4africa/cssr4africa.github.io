@@ -1,4 +1,7 @@
 # News  
+**29 April 2025**  
+Version 3.0 of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
+
 **27 April 2025**  
 Version 1.0 of the faceDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/face_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/face_detection_test) is now available.  
 Version 1.0 of the personDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/person_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/person_detection_test) is now available.  
