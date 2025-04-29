@@ -13,7 +13,7 @@ P. Zantou and D. Vernon, "Culturally-Sensitive Human-Robot Interaction: A Case S
 
 ## Abstracts
 
-D. Vernon, P. Ranchod, and B. Rosman, "Culturally Sensitive Social Robotics for Africa", Afretec Network Principal Investigators Meeting June 2-4, 2025, Kigali, Rwanda. Available [here](https://cssr4africa.github.io/abstracts/2025_CSSR4Africa_PI_Meeting_Abstract.pdf).  
+D. Vernon, P. Ranchod, and B. Rosman, "Culturally Sensitive Social Robotics for Africa", Afretec Network Principal Investigators Meeting, June 2-4, 2025, Kigali, Rwanda. Available [here](https://cssr4africa.github.io/abstracts/2025_CSSR4Africa_PI_Meeting_Abstract.pdf).  
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/abstracts/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon_abstract.pdf).  
 
