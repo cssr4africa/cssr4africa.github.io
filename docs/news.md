@@ -1,6 +1,8 @@
 # News  
 **29 April 2025**  
 Version 3.0 of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
+Version 1.2 of deliverable D4.2.1 Person Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.1.pdf).   
+Version 1.1 of deliverable D4.2.2 Face & Mutual Gaze Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.2.pdf).   
 
 **27 April 2025**  
 Version 1.0 of the faceDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/face_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/face_detection_test) is now available.  
