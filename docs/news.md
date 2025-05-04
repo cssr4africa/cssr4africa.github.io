@@ -1,4 +1,7 @@
 # News  
+**4 May 2025**  
+Version 1.7 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).  
+
 **29 April 2025**  
 Version 3.0 of deliverable D1.2 Rwandan Cultural Knowledge is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D1.2.pdf).   
 Version 1.2 of deliverable D4.2.1 Person Detection and Localization is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.2.1.pdf).   
