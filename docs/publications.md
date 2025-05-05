@@ -1,6 +1,6 @@
 ## Publications
 
-A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", Proceedings of the [2nd International Workshop on Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/),  [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/), Springer LNAI. Available soon.
+A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", Proceedings of the [2nd International Workshop on Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/),  [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/), Springer LNAI. Draft available [here](https://cssr4africa.github.io/publications/2025_Akinade_et_al.pdf).
 
 A. Akinade, D. Barros, and D. Vernon, "Biological Motion Aids Gestural Communication by Humanoid Social Robots", International Journal of Humanoid Robotics, 2025. Available [here](https://cssr4africa.github.io/publications/2025_Akinade_Barros_Vernon.pdf).
 
