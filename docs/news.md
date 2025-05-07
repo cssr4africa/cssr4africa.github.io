@@ -1,4 +1,7 @@
 # News  
+**7 May 2025**  
+Version 2.3 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version adds a /robotLocalization/set_pose service called by the behaviorController node.  
+
 **4 May 2025**  
 Version 1.7 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).   
 Version 1.7 of  deliverable D5.4.3 Robot Mission Intepreter is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).   
