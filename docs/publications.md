@@ -1,6 +1,6 @@
 ## Publications
 
-A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", Proceedings of the [2nd International Workshop on Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/),  [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/), Springer LNAI. Draft available [here](https://cssr4africa.github.io/publications/2025_Akinade_et_al.pdf).
+A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", Proceedings of the [2nd International Workshop on Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/),  [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/), Springer LNAI. Submission available [here](https://cssr4africa.github.io/publications/2025_Akinade_et_al.pdf).
 
 A. Akinade, D. Barros, and D. Vernon, "Biological Motion Aids Gestural Communication by Humanoid Social Robots", International Journal of Humanoid Robotics, 2025. Available [here](https://cssr4africa.github.io/publications/2025_Akinade_Barros_Vernon.pdf).
 
@@ -23,6 +23,8 @@ I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Cu
 
 
 ## Posters
+
+A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", [Afretec Network Principal Investigators Meeting](https://engineering.cmu.edu/afretec/events/2025/06/02-04-pi-meeting.html). Available [here](https://cssr4africa.github.io/posters/2025_CSSR4Africa_PI_Meeting_Poster.pdf).  
 
 A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", [Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/), Workshop at [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/). Available [here](https://cssr4africa.github.io/posters/2025_Cultural_Robotics_Workshop_Akinade_et_al_poster.pdf).  
 
