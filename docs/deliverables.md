@@ -189,7 +189,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">07/09/2023</span></td>
-<td><span style="color:black">27/04/2025</span></td>
+<td><span style="color:black">26/05/2025</span></td>
 </tr>
 
 <tr>
@@ -224,7 +224,7 @@
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf">Sensor Tests</a> </span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/10/2023</span></td>
-<td><span style="color:black">02/04/2024</span></td>
+<td><span style="color:black">31/05/2025</span></td>
 <td></td>
 </tr>
 
@@ -305,7 +305,7 @@
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf">Actuator Tests </a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/10/2023</span></td>
-<td><span style="color:black">02/04/2024</span></td>
+<td><span style="color:black">30/05/2025</span></td>
 <td></td>
 </tr>
 

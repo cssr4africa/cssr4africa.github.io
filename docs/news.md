@@ -1,4 +1,9 @@
 # News  
+**1 June 2025** 
+Version 1.10 of  D3.3 Software Installation Manual is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf). 
+Version 1.1 of  D4.1 Sensor Test is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf). 
+Version 1.1 of  D5.1 Actuator Test is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.1.pdf). 
+
 **7 May 2025**  
 Version 2.3 of  D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).  The readable version of the system architecture diagram is available [here](https://cssr4africa.github.io/images/System_Architecture_in_Detail.pdf). This version adds a /robotLocalization/set_pose service called by the behaviorController node.  
 
