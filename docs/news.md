@@ -1,4 +1,8 @@
 # News  
+**2 June 2025** 
+Version 1.0 of the soundDetection [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/sound_detection) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/sound_detection_test) is now available.  
+Version 1.0 of the speechEvent [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/speech_event) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/speech_event_test) is now available.
+
 **1 June 2025** 
 Version 1.10 of  D3.3 Software Installation Manual is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf). 
 Version 1.1 of  D4.1 Sensor Test is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.1.pdf). 
