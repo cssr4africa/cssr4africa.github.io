@@ -12,7 +12,7 @@ A. Akinade, Y. Haile, N. Mutangana C. Tucker, and D. Vernon, "Culturally Compete
 P. Zantou and D. Vernon, "Culturally-Sensitive Human-Robot Interaction: A Case Study with the Pepper Humanoid Robot", Proc. IEEE Africon, Nairobi, Kenya, September, 2023. Preprint available [here](https://cssr4africa.github.io/publications/2023_Zantou_Vernon_Africon.pdf).
 
 
- ## Workshop Papers
+## Workshop Papers
 
 A. Akinade, D. Barros, M. Danso, Y. Haile, E. Birhan, B. Shimelis Girma, C. Osano, P. Ranchod, M. Richard, B. Rosman, I. Jimoh, T. Taye Tefferi, D. Vernon, "Culturally Sensitive Social Robotics for Africa", Proceedings of the [2nd International Workshop on Cultural Robotics: Diversified Sustainable Practices](https://www.culturebots.org/),  [IEEE/ACM HRI 2025](https://humanrobotinteraction.org/2025/), Springer LNAI. Submission available [here](https://cssr4africa.github.io/publications/2025_Akinade_et_al.pdf).
 
