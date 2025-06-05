@@ -23,7 +23,7 @@ D. Vernon, P. Ranchod, and B. Rosman, "Culturally Sensitive Social Robotics for 
 
 A. Akinade and D. Vernon, "Biological Motion for Gestural Communication by Social Robots", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/abstracts/2024_Robotics_in_Africa_Forum_IROS_Akinade_Vernon_abstract.pdf).  
 
-E. Birhan and D. Vernon, "Rwandan Culture Survey for Culturally-Sensitive Social Robotics for Africa", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/abstracts/2024_Robotics_in_Africa_Forum_IROS_Birhan_Vernon_abstract.pdf).  
+E. Birhan, M. Richard, and D. Vernon, "Rwandan Culture Survey for Culturally-Sensitive Social Robotics for Africa", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/abstracts/2024_Robotics_in_Africa_Forum_IROS_Birhan_et_al_abstract.pdf).  
 
 I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Culturally Sensitive Social Robots: African Culture Case Study", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/abstracts/2024_Robotics_in_Africa_Forum_IROS_Jimoh_et_al_abstract.pdf).  
 
