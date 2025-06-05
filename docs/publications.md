@@ -55,7 +55,7 @@ I. Jimoh, H. Equbay, C. Osano, T. Tefferi, and D. Vernon, "Behavior Trees for Cu
 
 D. Vernon, "Keynote Talk: Culturally Sensitive Social Robots for Africa", [Robotics in Africa Forum](https://africarobotics.github.io/iros2024/) at [IROS 2024](https://iros2024-abudhabi.org/). Available [here](https://cssr4africa.github.io/presentations/2024_Robotics_in_Africa_Forum_IROS_Vernon_keynote_presentation.pdf).  
 
-D. Vernon, "An African Perspective on Culturally Competent Social Robotics: Why DEI Matters in Human-Robot Interaction", [Workshop on Culturally Sensitive Social Robotics for All ](http://www.vernon.eu/ICAR2023_Workshop.htm), 21st International Conference on Advanced Robotics (ICAR), Abu Dhabi, UAE, 5th December, 2023. Available [here](https://cssr4africa.github.io/presentations/2025_Afretec_Breaking_Barriers_Webinar.pdf).  
+D. Vernon, "An African Perspective on Culturally Competent Social Robotics: Why DEI Matters in Human-Robot Interaction", [Workshop on Culturally Sensitive Social Robotics for All ](http://www.vernon.eu/ICAR2023_Workshop.htm), 21st International Conference on Advanced Robotics (ICAR), Abu Dhabi, UAE, 5th December, 2023. Available [here](https://cssr4africa.github.io/presentations/2023_Workshop_DEI_Talk_ICAR.pdf).  
 
 
 ## Workshops Organized
