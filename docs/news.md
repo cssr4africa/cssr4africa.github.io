@@ -1,8 +1,9 @@
 # News  
-**11 June 2025**  
+**12 June 2025**  
 Version 2.6 of  Deliverable D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   
 Version 1.2 of Deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
 Version 3.5 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). 
+Version 1.0 of the mapGeneration [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/mapGeneration) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/mapGenerationTest) is now available.  
 
 **3 June 2025**  
 Version 1.2 of  deliverable D6.1 Use Case Implementation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf).   
