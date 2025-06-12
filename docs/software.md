@@ -12,9 +12,12 @@ Instructions on how to install the software can be found in [Deliverable D3.3](h
 
 - Attention Subsystem
 - Animate Behaviour Subsystem
+- Environment Map Generation
 - Face & Mutual Gaze Detection and Localization
 - Gesture Execution
 - Person Detection and Localization
+- Sound Detection and Localization
+- Speech Event
 
 These modules are documented in the associated [deliverables](https://cssr4africa.github.io/deliverables).
 

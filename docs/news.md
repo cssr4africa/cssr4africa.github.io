@@ -1,4 +1,7 @@
 # News  
+**12 June 2025**  
+Version 1.0 of the mapGeneration [node](https://github.com/cssr4africa/cssr4africa/tree/main/cssr_system/mapGeneration) and the [unit_tests](https://github.com/cssr4africa/cssr4africa/tree/main/unit_tests/mapGenerationTest) is now available.  
+
 **3 June 2025**  
 Version 1.2 of  deliverable D6.1 Use Case Implementation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf).   
 Version 1.11 of  deliverable D3.3 Software Installation Manual is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf). 
