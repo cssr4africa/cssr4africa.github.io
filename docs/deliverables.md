@@ -446,7 +446,7 @@
 
 <tr>
 <td><span style="color:black">D6.2</span></td>
-<td><span style="color:black">Use Case Evaluation</span></td>
+<td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.2.pdf">Use Case Evaluation</a></span></td>
 <td><span style="color:black">CMU / Wits </span></td>
 <td><span style="color:black">30/06/2025</span></td>
 <td></td>
