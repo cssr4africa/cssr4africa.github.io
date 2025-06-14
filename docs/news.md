@@ -1,5 +1,5 @@
 # News  
-**14 June 2025** 
+**14 June 2025**   
 Version 1.1 of Deliverable D5.5.3 Environment Map Generation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.3.pdf). 
 
 **12 June 2025**  
