@@ -1,4 +1,7 @@
 # News  
+**14 June 2025** 
+Version 1.1 of Deliverable D5.5.3 Environment Map Generation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.3.pdf). 
+
 **12 June 2025**  
 Version 2.6 of  Deliverable D3.1 System Architecture is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   
 Version 1.2 of Deliverable D4.3.2 Speech Event is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
@@ -24,7 +27,7 @@ Version 2.3 of  D3.1 System Architecture is  available [here](https://cssr4afric
 
 **4 May 2025**  
 Version 1.7 of  deliverable D5.4.2 Robot Mission Language is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).   
-Version 1.7 of  deliverable D5.4.3 Robot Mission Intepreter is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).   
+Version 1.7 of  deliverable D5.4.3 Robot Mission Interpreter is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).   
 Version 1.1 of  deliverable D6.1 Use Case Implementation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf).   
 
 **29 April 2025**  
