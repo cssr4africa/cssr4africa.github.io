@@ -1,4 +1,7 @@
 # News  
+**16 June 2025**   
+New versions of Deliverables D1.2, D4.2.2, D4.2.3, D5.5.2.3 to fix typos. 
+
 **14 June 2025**   
 Version 1.1 of Deliverable D5.5.3 Environment Map Generation is  available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.3.pdf). 
 
