@@ -1,5 +1,8 @@
 # News  
 **16 June 2025**   
+Version 3.6 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   
+
+**16 June 2025**   
 New versions of Deliverables D1.2, D4.2.1, D4.2.2, D4.2.3, D5.5.2.3 to fix typos.  New version of D6.2 with new tasks.
 
 **14 June 2025**   
