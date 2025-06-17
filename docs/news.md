@@ -1,5 +1,5 @@
 # News  
-**16 June 2025**   
+**17 June 2025**   
 Version 3.6 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   
 
 **16 June 2025**   
