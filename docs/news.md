@@ -2,6 +2,7 @@
 **20 June 2025**   
 Version 1.12 of the software installation manual is availabe [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.3.pdf).
 Version 1.3 of software installation script is available [here](https://github.com/cssr4africa/software-Installation-scripts.git).
+New version of Deliverables D4.2.1, D4.2.2, D4.2.3 to fix references to tables and figures.
 
 **17 June 2025**   
 Version 3.6 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   
