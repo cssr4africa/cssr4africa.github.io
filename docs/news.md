@@ -1,5 +1,5 @@
 # News
-**21 June 2025**
+**21 June 2025**    
 Version 1.13 of the software installation manual to fix typos.
 
 **20 June 2025**   
