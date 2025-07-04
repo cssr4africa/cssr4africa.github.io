@@ -1,4 +1,7 @@
 # News
+**04 July 2025**    
+Version 1.2 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).
+
 **21 June 2025**    
 Version 1.13 of the software installation manual to fix typos.
 
