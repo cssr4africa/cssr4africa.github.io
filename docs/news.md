@@ -1,4 +1,7 @@
 # News
+**12 August 2025**    
+Version 1.2 of Deliverable D5.5.4 Robot Navigation is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.4.pdf).
+
 **04 July 2025**    
 Version 1.2 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).
 
