@@ -1,6 +1,5 @@
-# News
-
-**21 August 2025**  
+# News 
+**21 August 2025**   
 CSSR4Africa team presented at the [3rd Workshop on Robotics and Automation in Africa](https://sites.google.com/view/robot-learning-for-africa-2025/home) held at University of Rwanda in Kigali, in collaboration with Wits University. The presentation on culture-embedded robotics generated significant audience interest. Workshop images available [here](https://github.com/cssr4africa/cssr4africa.github.io/tree/main/docs/images/3rd-Workshop-on-Robotics-and-Automation-in-Africa).
 
 **12 August 2025**    
