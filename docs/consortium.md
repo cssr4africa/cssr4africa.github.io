@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td><a href="https://www.africa.engineering.cmu.edu/"><img class="alignnone wp-image-669 size-medium" src="https://cssr4africa.github.io/images/CMU_Africa_Horiz_SECONDARY_Red_and_Gray.png" alt="CMU-Africa" /></a></td>
-<td><strong>Carnegie Mellon University Africa</strong> <BR><a href="https://www.africa.engineering.cmu.edu/about/contact/directory/bios/vernon-david.html">David Vernon</a></td>
+<td><strong>Carnegie Mellon University Africa</strong> <BR><a href="https://www.africa.engineering.cmu.edu/about/contact/directory/bios/gueye-assane.html">Assane Gueye</a></td>
 </tr>
 <tr>
 <td><a href="https://www.wits.ac.za/csam/"><img class="alignnone wp-image-433 size-full" src="https://cssr4africa.github.io/images/Wits_Centenary_Logo_Large.png" alt=""/></a></td>
