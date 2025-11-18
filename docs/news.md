@@ -1,9 +1,9 @@
 # News 
-**17 November 2025**
-Version 1.3 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).
+**17 November 2025**   
+Version 1.3 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).  
 Integration and quality assurance reports for the actuatorTests, sensorTests, robotNavigation, robotLocalization, and textToSpeech ROS nodes have been added to the system integration and quality assurance deliverable document.
 
-**14 November 2025**
+**14 November 2025**   
 Contact details for the CMU-Africa principal investigator have been updated on the CSSR4Africa website [here](https://cssr4africa.github.io/contact) and [here](https://cssr4africa.github.io/consortium) to reflect the change in principal investigator from Prof David Vernon to Prof Assane Gueye, a change that occurred on 2025-07-01. The CSSR4Africa GitHub repository's README.md file has also been updated to reflect this change, as seen [here](https://github.com/cssr4africa/cssr4africa/).
 
 **29 August 2025**   
