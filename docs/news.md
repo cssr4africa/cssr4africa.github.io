@@ -1,4 +1,8 @@
 # News 
+
+**17 February 2026**   
+The fifth periodic report for July 2025 - December 2025 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.5.pdf). 
+
 **17 November 2025**   
 Version 1.3 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).  
 Integration and quality assurance reports for the actuatorTests, sensorTests, robotNavigation, robotLocalization, and textToSpeech ROS nodes have been added to the system integration and quality assurance deliverable document.
