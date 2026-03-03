@@ -1,5 +1,8 @@
 # News 
 
+**14 November 2025**   
+Contact details for the CMU-Africa principal investigator have been updated on the CSSR4Africa website [here](https://cssr4africa.github.io/contact) and [here](https://cssr4africa.github.io/consortium) to reflect the change in principal investigator from Prof Assane Gueye to Prof Moise Busogi, a change that occurred on 2026-01-01. The CSSR4Africa GitHub repository's README.md file has also been updated to reflect this change, as seen [here](https://github.com/cssr4africa/cssr4africa/).
+
 **17 February 2026**   
 The fifth periodic report for July 2025 - December 2025 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.5.pdf). 
 

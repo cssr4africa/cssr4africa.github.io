@@ -8,6 +8,6 @@ Pravesh.Ranchod<img src="https://cssr4africa.github.io/images/ampersand12.jpg">w
 Prof. Benjamin Rosman, University of the Witwatersrand, South Africa<BR>
 Benjamin.Rosman1<img src="https://cssr4africa.github.io/images/ampersand12.jpg">wits.ac.za
 
-Prof. Assane Gueye, Carnegie Mellon University Africa, Rwanda<BR>
+Prof. Moise Busogi, Carnegie Mellon University Africa, Rwanda<BR>
 assaneg<img src="https://cssr4africa.github.io/images/ampersand12.jpg">andrew.cmu.edu
 
