@@ -457,7 +457,7 @@
 <tr>
 <td>D6.3</td>
 <td>Use Case Re-Evaluation </td>
-<td>Wits</td>
+<td>Wits -> CMU-Africa</td>
 <td>30/06/2026</td>
 <td></td>
 <td></td>
