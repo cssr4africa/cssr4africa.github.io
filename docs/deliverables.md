@@ -549,6 +549,6 @@
 </tbody>
 </table>
 
-<p><strong>Note:</strong> <span style="color:red">WITS -> CMU</span> indicates that the deliverable was originally assigned to Wits but was carried out by CMU-Africa due to the absence of Wits' involvement in the project.</p>
+<p><strong>Note:</strong> <span style="color:red">Wits -> CMU</span> indicates that the deliverable was originally assigned to Wits but was carried out by CMU-Africa due to the absence of Wits' involvement in the project.</p>
 
 
