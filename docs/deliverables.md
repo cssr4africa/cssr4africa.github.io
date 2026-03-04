@@ -330,7 +330,7 @@
 <tr>
 <td><span style="color:black">D5.4.1</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf">Cultural Knowledge Ontology & Culture Knowledge Base</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">21/12/2024</span></td>
 <td><span style="color:black">15/04/2025</span></td>
@@ -339,7 +339,7 @@
 <tr>
 <td><span style="color:black">D5.4.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf">Robot Mission Language</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">05/03/2025</span></td>
 <td><span style="color:black">04/05/2025</span></td>
@@ -348,7 +348,7 @@
 <tr>
 <td><span style="color:black">D5.4.3</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf">Robot Mission Interpreter</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">16/12/2024</span></td>
 <td><span style="color:black">07/06/2025</span></td>
@@ -375,7 +375,7 @@
 <tr>
 <td><span style="color:black">D5.5.2.1</span></td>
 <td> <span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.1.pdf">English Text to Speech Conversion</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">02/03/2024</span></td>
 <td><span style="color:black">23/04/2024</span></td>
@@ -402,7 +402,7 @@
 <tr>
 <td><span style="color:black">D5.5.2.4</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.4.pdf">Integrated Text to Speech Conversion</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td><span style="color:black">21/03/2025</span></td>
 <td><span style="color:black">25/04/2025</span></td>
@@ -439,7 +439,7 @@
 <tr>
 <td><span style="color:black">D6.1</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.1.pdf">Use Case Implementation</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">31/03/2025</span></td>
 <td><span style="color:black">04/05/2025</span></td>
 <td><span style="color:black">01/06/2025</span></td>
@@ -448,7 +448,7 @@
 <tr>
 <td><span style="color:black">D6.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.2.pdf">Use Case Evaluation</a></span></td>
-<td><span style="color:red">Wits -> CMU-Africa</span></td>
+<td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/06/2025</span></td>
 <td><span style="color:black">14/06/2025</span></td>
 <td><span style="color:black">25/07/2025</span></td>
@@ -549,6 +549,6 @@
 </tbody>
 </table>
 
-<p style="font-size: 1.2em;"><strong>Note:</strong> <span style="color:red">Wits -> CMU-Africa</span> indicates that the deliverable was originally assigned to Wits but was carried out by CMU-Africa due to the absence of Wits' involvement in the project.</p>
+<p style="font-size: 1.2em;"><strong>Note:</strong> <span style="color:black">Wits -> CMU-Africa</span> indicates that the deliverable was originally assigned to Wits but was carried out by CMU-Africa due to the absence of Wits' involvement in the project.</p>
 
 
