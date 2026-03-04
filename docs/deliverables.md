@@ -6,7 +6,7 @@
 <tr>
 <th style="min-width: 10px;">No.</th>
 <th  style="min-width: 245px;">Title</th>
-<th  style="min-width: 130px;">Lead</th>
+<th  style="min-width: 100px;">Lead</th>
 <th style="min-width: 55px;">Due Date   </th>
 <th style="min-width: 55px;">Submission Date</th>
 <th style="min-width: 55px;">Revision Date</th>
