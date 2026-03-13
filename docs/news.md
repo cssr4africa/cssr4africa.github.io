@@ -1,4 +1,6 @@
 # News 
+**13 March 2026**   
+Added cultural knowledge selected for the implementation, it can be found [here](https://github.com/cssr4africa/cssr4africa.github.io/blob/main/docs/tasks/cultural_values_selected.pdf).
 
 **03 March 2026**   
 Contact details for the CMU-Africa principal investigator have been updated on the CSSR4Africa website [here](https://cssr4africa.github.io/contact) and [here](https://cssr4africa.github.io/consortium) to reflect the change in principal investigator from Prof Assane Gueye to Prof Moise Busogi, a change that occurred on 2026-01-01. The CSSR4Africa GitHub repository's README.md file has also been updated to reflect this change, as seen [here](https://github.com/cssr4africa/cssr4africa/).
