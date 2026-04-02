@@ -1,5 +1,5 @@
 # News 
-**02 April 2026**
+**02 April 2026** 
 Our work on culturally sensitive social robotics was featured in Nature Africa: "Can robots learn African culture?" (March 2026). It can be found [here](https://www.nature.com/articles/d44148-026-00063-6)
 
 **13 March 2026**   
