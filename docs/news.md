@@ -1,4 +1,7 @@
-# News 
+# News
+**13 April 2026**   
+Paper published:  A. Akinade, D. Barros, E. Birhan, M. Danso, Y. Haile, I. Jimoh et al., "Culturally Sensitive Social Robotics for Africa", Cultural Robotics: Diversified Sustainable Practices, accepted for publication, April 05, 2026; available [here](https://link.springer.com/book/10.1007/978-3-032-15501-6).  
+
 **02 April 2026**   
 Our work on culturally sensitive social robotics was featured in Nature Africa: "Can robots learn African culture?" (March 2026). It can be found [here](https://www.nature.com/articles/d44148-026-00063-6)
 
