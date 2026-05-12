@@ -1,4 +1,7 @@
 # News
+**11 May 2026**   
+Version 3.7 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   
+
 **13 April 2026**   
 Paper published:  A. Akinade, D. Barros, E. Birhan, M. Danso, Y. Haile, I. Jimoh et al., "Culturally Sensitive Social Robotics for Africa", Cultural Robotics: Diversified Sustainable Practices, accepted for publication, April 05, 2026; available [here](https://link.springer.com/book/10.1007/978-3-032-15501-6).  
 
