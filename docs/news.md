@@ -1,4 +1,7 @@
 # News
+**01 June 2026**   
+Version 1.3  of deliverable D5.5.2.4 Integrated Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.4.pdf).  
+
 **11 May 2026**   
 Version 3.7 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   
 
