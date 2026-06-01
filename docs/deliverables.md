@@ -405,7 +405,7 @@
 <td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td><span style="color:black">21/03/2025</span></td>
-<td><span style="color:black">01/06/2025</span></td>
+<td><span style="color:black">01/06/2026</span></td>
 </tr>
  
 <tr>
