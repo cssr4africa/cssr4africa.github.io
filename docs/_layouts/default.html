@@ -22,19 +22,19 @@
         <p><font size="2">{{ site.description | default: site.github.project_tagline }}</font></p>
      
         <hr>
-	<a class="button" href='https://cssr4africa.github.io/overview'>Overview</a>
-        <a class="button" href='https://cssr4africa.github.io/consortium'>Consortium</a>
-        <a class="button" href='https://cssr4africa.github.io/contact'>Contact</a>
+	<a class="button" href='{{ "/overview" | relative_url }}'>Overview</a>
+        <a class="button" href='{{ "/consortium" | relative_url }}'>Consortium</a>
+        <a class="button" href='{{ "/contact" | relative_url }}'>Contact</a>
 	<BR>
 	&nbsp;
 	<P>
-	<a class="button" href='https://cssr4africa.github.io/workplan'>Work Plan</a>
-	<a class="button" href='https://cssr4africa.github.io/deliverables'>Deliverables</a>
-	<a class="button" href='https://cssr4africa.github.io/software'>Software</a>
+	<a class="button" href='{{ "/workplan" | relative_url }}'>Work Plan</a>
+	<a class="button" href='{{ "/deliverables" | relative_url }}'>Deliverables</a>
+	<a class="button" href='{{ "/software" | relative_url }}'>Software</a>
         <P>
-	<a class="button" href='https://cssr4africa.github.io/news'>News</a>
+	<a class="button" href='{{ "/news" | relative_url }}'>News</a>
 	<a class="button" href='https://github.com/cssr4africa/cssr4africa.github.io/wiki/CSSR4Africa-Wiki'>Wiki</a>
-        <a class="button" href='https://cssr4africa.github.io/publications'>Publications</a>
+        <a class="button" href='{{ "/publications" | relative_url }}'>Publications</a>
 	<hr>    
         <!--
 	{% if site.github.is_project_page %}
