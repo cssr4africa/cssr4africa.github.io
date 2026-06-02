@@ -572,7 +572,7 @@
 
 <tr>
 <td>D1.0</td>
-<td>DEC Tour Guide Initial CSSR4Africa ROS1 Prototype</td>
+<td><a href="/deliverables/pepper4dec/DEC_D1.0_DEC_Tour_Guide_Initial_CSSR4Africa_ROS1_Prototype.pdf">DEC Tour Guide Initial CSSR4Africa ROS1 Prototype</a></td>
 <td>CMU-Africa</td>
 <td>28/02/2026</td>
 <td>02/04/2026</td>
@@ -617,7 +617,7 @@
 
 <tr>
 <td>D3.1</td>
-<td>System Architecture</td>
+<td><a href="/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf">System Architecture</a></td>
 <td>CMU-Africa</td>
 <td>28/02/2026</td>
 <td>28/02/2026</td>
@@ -626,7 +626,7 @@
 
 <tr>
 <td>D3.2</td>
-<td>Software Engineering Standards Manual</td>
+<td><a href="/deliverables/pepper4dec/DEC_D3.2_Software_Engineering_Standards_Manual.pdf">Software Engineering Standards Manual</a></td>
 <td>CMU-Africa</td>
 <td>15/03/2026</td>
 <td>15/03/2026</td>
@@ -644,7 +644,7 @@
 
 <tr>
 <td>D4.1</td>
-<td>Robot Sensing Migration</td>
+<td><a href="/deliverables/pepper4dec/DEC_D4.1_Robot_Sensing_Migration.pdf">Robot Sensing Migration</a></td>
 <td>CMU-Africa</td>
 <td>01/03/2026</td>
 <td>01/06/2026</td>
