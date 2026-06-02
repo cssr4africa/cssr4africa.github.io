@@ -17,4 +17,14 @@ CSSR4Africa focusses on cultural sensitivity. We plan to extend the work to cult
  
  Reference: B. Bruno, N. Y. Chong, H. Kamide, S. Kanoria, J. Lee, Y. Lim, A. K. Pandey, C. Papadopoulos, I. Papadopoulos, F. Pecora, A. Saffioti, and A. Sgorbissa, "Paving the way for culturally competent robots: A position paper", in 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal, 2017, pp. 553-560.
     
-Papers, abstracts, posters, and presentations that describe  the project are  available on the [Publications](https://cssr4africa.github.io/publications) page. 
+Papers, abstracts, posters, and presentations that describe  the project are  available on the [Publications](https://cssr4africa.github.io/publications) page.
+
+---
+
+## Pepper4DEC
+
+Pepper4DEC is a spin-off project that applies the culturally sensitive social robotics research from CSSR4Africa to a real-world deployment. It develops software for an autonomous Pepper robot-led tour system at the Upanzi Digital Experience Center (DEC) at Carnegie Mellon University Africa, where the robot acts as a digital guide for visitors, replacing human-led tours with fully automated, interactive experiences across Digital Public Infrastructure booths.
+
+The system is built on ROS2 (Humble) and uses a modular architecture covering behavior control, perception, navigation, and interaction. Key changes introduction of ROS2 Migration, conversation manager, Action based behavior controller, and SLAM-based autonomous navigation.
+
+Pepper4DEC serves both as a practical deployment of the CSSR4Africa research outcomes and as a testbed for evaluating culturally aware human-robot interaction in an African context.

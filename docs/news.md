@@ -1,6 +1,13 @@
 # News
+**02 June 2026**   
+The following Pepper4DEC deliverables are now available:  
+Deliverable D1.0 DEC Tour Guide: Initial CSSR4Africa ROS1 Prototype is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D1.0_DEC_Tour_Guide_Initial_CSSR4Africa_ROS1_Prototype.pdf).  
+Deliverable D3.1 System Architecture (version 1.2) is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf).  
+Deliverable D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D3.2_Software_Engineering_Standards_Manual.pdf).  
+Deliverable D4.1 Robot Sensing Migration is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D4.1_Robot_Sensing_Migration.pdf).
+
 **01 June 2026**   
-Version 1.3  of deliverable D5.5.2.4 Integrated Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.4.pdf).  
+Version 1.3  of deliverable D5.5.2.4 Integrated Text to Speech Conversion is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.2.4.pdf).
 
 **11 May 2026**   
 Version 3.7 of the work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf).   

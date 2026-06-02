@@ -1,4 +1,4 @@
-# Deliverables
+# CSSR4Africa Deliverables
 
 <font size="1">
 <table class="style-1" style="height: 174px;" width="425">
@@ -552,3 +552,168 @@
 <p style="font-size: 1.2em;"><strong>Note:</strong> <span style="color:black">Wits -> CMU-Africa</span> indicates that the deliverable was originally assigned to Wits but was carried out by CMU-Africa due to unforeseen circumstances.</p>
 
 
+</font>
+
+<hr>
+
+# Pepper4DEC Deliverables
+
+<font size="1">
+<table class="style-1" style="height: 174px;" width="425">
+<tbody>
+<tr>
+<th style="min-width: 10px;">No.</th>
+<th style="min-width: 245px;">Title</th>
+<th style="min-width: 100px;">Lead</th>
+<th style="min-width: 55px;">Due Date</th>
+<th style="min-width: 55px;">Submission Date</th>
+<th style="min-width: 55px;">Revision Date</th>
+</tr>
+
+<tr>
+<td>D1.0</td>
+<td>DEC Tour Guide Initial CSSR4Africa ROS1 Prototype</td>
+<td>CMU-Africa</td>
+<td>28/02/2026</td>
+<td>02/04/2026</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.1</td>
+<td>Use Case Scenario Definition</td>
+<td>CMU-Africa</td>
+<td>30/09/2025</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.2</td>
+<td>Robot Behavior Specification</td>
+<td>CMU-Africa</td>
+<td>31/12/2025</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.3</td>
+<td>Visitor Behavior Specification</td>
+<td>CMU-Africa</td>
+<td>31/12/2025</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D2.4</td>
+<td>Use Case Feedback</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D3.1</td>
+<td>System Architecture</td>
+<td>CMU-Africa</td>
+<td>28/02/2026</td>
+<td>28/02/2026</td>
+<td>02/06/2026</td>
+</tr>
+
+<tr>
+<td>D3.2</td>
+<td>Software Engineering Standards Manual</td>
+<td>CMU-Africa</td>
+<td>15/03/2026</td>
+<td>15/03/2026</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D3.3</td>
+<td>Software Installation Manual</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.1</td>
+<td>Robot Sensing Migration</td>
+<td>CMU-Africa</td>
+<td>01/03/2026</td>
+<td>01/06/2026</td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.2</td>
+<td>SLAM-based Robot Localization</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D4.3</td>
+<td>Conversation Manager</td>
+<td>CMU-Africa</td>
+<td>31/12/2025</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.1</td>
+<td>Robot Actuator Migration</td>
+<td>CMU-Africa</td>
+<td>31/10/2025</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.2</td>
+<td>Behavior Controller</td>
+<td>CMU-Africa</td>
+<td>31/05/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D5.3</td>
+<td>Nav2 Navigation System</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D6.1</td>
+<td>Use Case Implementation</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>D6.2</td>
+<td>Use Case Evaluation</td>
+<td>CMU-Africa</td>
+<td>30/06/2026</td>
+<td></td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
+</font>

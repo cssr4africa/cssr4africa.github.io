@@ -8,4 +8,11 @@ The statement of work (SoW) is available [here](https://cssr4africa.github.io/wo
 
 The effort estimates by task are available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Effort.xlsx). 
 
+---
+
+## Pepper4DEC Work Plan
+
+The project work plan is available [here](/workplan/upanziDEC_Work_Plan.pdf).
+
+The Gantt chart is available [here](/workplan/Gantt_Chart_upanziDEC_Work_Plan.pdf).
 
