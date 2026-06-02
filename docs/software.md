@@ -21,4 +21,20 @@ Instructions on how to install the software can be found in [Deliverable D3.3](h
 
 These modules are documented in the associated [deliverables](https://cssr4africa.github.io/deliverables).
 
-More modules will be added as the integration process proceeds. 
+More modules will be added as the integration process proceeds.
+
+---
+
+## Pepper4DEC
+
+The CSSR4Africa software has been forked and re-implemented in ROS2 (Humble) to give autonomous tours of the Digital Experience Centre (DEC) of the Upanzi Network at Carnegie Mellon University Africa. The Pepper4DEC software repository is planned to be made publicly available.
+
+In addition to porting all existing CSSR4Africa modules from ROS1 to ROS2, the Pepper4DEC fork provides the following additional functionality:
+
+- A BehaviorTree.CPP v4 **Behavior Controller** that orchestrates the full DEC tour, managing transitions between tour stops, visitor interactions, and recovery behaviours
+- A **RAG-based Conversation Manager** that enables context-aware natural language interaction with visitors at each DEC booth
+- **SLAM-based autonomous navigation** using Nav2, allowing the robot to navigate independently between tour stops
+- **VAD-aware speech recognition** with an action-server interface, replacing the ROS service interface used in CSSR4Africa to better support long-running speech interactions
+- An updated **overt attention controller** with saliency-driven scanning that prioritises detected faces
+
+It is planned to merge the DEC branch with the master CSSR4Africa branch at some point, if time allows, thereby making the ROS2 migration and additional functionality available to the wider CSSR4Africa project. This intent is reflected in the CSSR4Africa work plan and deliverables.

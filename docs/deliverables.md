@@ -558,6 +558,8 @@
 
 # Pepper4DEC Deliverables
 
+<p>The following deliverables are from the Pepper4DEC spin-off project; see the <a href="/workplan">Work Plan</a> page for details.</p>
+
 <font size="1">
 <table class="style-1" style="height: 174px;" width="425">
 <tbody>

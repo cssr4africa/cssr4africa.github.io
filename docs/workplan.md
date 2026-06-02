@@ -1,4 +1,4 @@
-# Work Plan
+# CSSR4Africa Work Plan
 
 The project work plan is available [here](https://cssr4africa.github.io/workplan/CSSR4Africa_Work_Plan.pdf). 
 
