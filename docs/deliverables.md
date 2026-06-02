@@ -607,15 +607,6 @@
 </tr>
 
 <tr>
-<td>D2.4</td>
-<td>Use Case Feedback</td>
-<td>CMU-Africa</td>
-<td>30/06/2026</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
 <td>D3.1</td>
 <td><a href="/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf">System Architecture</a></td>
 <td>CMU-Africa</td>
