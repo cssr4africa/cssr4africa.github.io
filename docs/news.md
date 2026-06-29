@@ -1,4 +1,15 @@
 # News
+
+**29 June 2026**   
+Version 2.8 of Deliverable D3.1 System Architecture is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   
+Version 1.4 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).   
+Version 1.4 of Deliverable D4.3.2 Speech Event is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D4.3.2.pdf).   
+Version 2.2 of Deliverable D5.4.1 Cultural Knowledge Ontology & Culture Knowledge Base is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.1.pdf).   
+Version 1.8 of Deliverable D5.4.2 Robot Mission Language is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.2.pdf).   
+Version 1.9 of Deliverable D5.4.3 Robot Mission Interpreter is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.4.3.pdf).   
+Version 1.3 of Deliverable D5.5.1.1 Gesture Execution is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D5.5.1.1.pdf).   
+Version 1.3 of Deliverable D6.2 Use Case Evaluation is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D6.2.pdf).   
+
 **02 June 2026**   
 The following Pepper4DEC deliverables are now available:  
 Deliverable D1.0 DEC Tour Guide: Initial CSSR4Africa ROS1 Prototype is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D1.0_DEC_Tour_Guide_Initial_CSSR4Africa_ROS1_Prototype.pdf).  
