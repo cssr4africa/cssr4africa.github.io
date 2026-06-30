@@ -162,7 +162,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/01/2024</span></td>
 <td><span style="color:black">24/01/2024</span></td>
-<td><span style="color:black">11/06/2025</span></td>
+<td><span style="color:black">26/06/2026</span></td>
 </tr>
 
 <tr>
@@ -207,7 +207,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">25/07/2024</span></td>
-<td><span style="color:black">14/11/2025</span></td>
+<td><span style="color:black">19/06/2026</span></td>
 </tr>
 
 <tr>
@@ -288,7 +288,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/03/2024</span></td>
 <td><span style="color:black">20/02/2025</span></td>
-<td><span style="color:black">11/06/2025</span></td>
+<td><span style="color:black">07/05/2026</span></td>
 </tr>
 
 <tr>
@@ -333,7 +333,7 @@
 <td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">21/12/2024</span></td>
-<td><span style="color:black">15/04/2025</span></td>
+<td><span style="color:black">15/05/2026</span></td>
 </tr>
 
 <tr>
@@ -342,7 +342,7 @@
 <td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/06/2024</span></td>
 <td><span style="color:black">05/03/2025</span></td>
-<td><span style="color:black">04/05/2025</span></td>
+<td><span style="color:black">15/05/2026</span></td>
 </tr>
 
 <tr>
@@ -351,7 +351,7 @@
 <td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">31/12/2024</span></td>
 <td><span style="color:black">16/12/2024</span></td>
-<td><span style="color:black">07/06/2025</span></td>
+<td><span style="color:black">08/05/2026</span></td>
 </tr>
 
 <tr>
@@ -360,7 +360,7 @@
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">30/09/2024</span></td>
 <td><span style="color:black">10/10/2025</span></td>
-<td><span style="color:black">04/02/2025</span></td>
+<td><span style="color:black">15/05/2026</span></td>
 </tr>
 
 <tr>
@@ -451,7 +451,7 @@
 <td><span style="color:black">Wits -> CMU-Africa</span></td>
 <td><span style="color:black">30/06/2025</span></td>
 <td><span style="color:black">14/06/2025</span></td>
-<td><span style="color:black">25/07/2025</span></td>
+<td><span style="color:black">11/01/2026</span></td>
 </tr>
  
 <tr>
