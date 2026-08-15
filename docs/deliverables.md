@@ -592,19 +592,19 @@
 
 <tr>
 <td>D2.2</td>
-<td>Robot Behavior Specification</td>
+<td><a href="/deliverables/pepper4dec/DEC_D2.2_Robot_Behaviour_Specification.pdf">Robot Behaviour Specification</a></td>
 <td>CMU-Africa</td>
 <td>31/12/2025</td>
-<td></td>
+<td>14/08/2026</td>
 <td></td>
 </tr>
 
 <tr>
 <td>D2.3</td>
-<td>Visitor Behavior Specification</td>
+<td><a href="/deliverables/pepper4dec/DEC_D2.3_Visitor_Behaviour_Specification.pdf">Visitor Behaviour Specification</a></td>
 <td>CMU-Africa</td>
 <td>31/12/2025</td>
-<td></td>
+<td>14/08/2026</td>
 <td></td>
 </tr>
 
@@ -614,7 +614,7 @@
 <td>CMU-Africa</td>
 <td>28/02/2026</td>
 <td>28/02/2026</td>
-<td>02/06/2026</td>
+<td>14/08/2026</td>
 </tr>
 
 <tr>
@@ -623,7 +623,7 @@
 <td>CMU-Africa</td>
 <td>15/03/2026</td>
 <td>15/03/2026</td>
-<td></td>
+<td>07/08/2026</td>
 </tr>
 
 <tr>
@@ -641,7 +641,7 @@
 <td>CMU-Africa</td>
 <td>01/03/2026</td>
 <td>01/06/2026</td>
-<td></td>
+<td>14/08/2026</td>
 </tr>
 
 <tr>
@@ -655,20 +655,20 @@
 
 <tr>
 <td>D4.3</td>
-<td>Conversation Manager</td>
+<td><a href="/deliverables/pepper4dec/DEC_D4.3_Conversation_Manager.pdf">Conversation Manager</a></td>
 <td>CMU-Africa</td>
 <td>31/12/2025</td>
-<td></td>
+<td>06/03/2026</td>
 <td></td>
 </tr>
 
 <tr>
 <td>D5.1</td>
-<td>Robot Actuator Migration</td>
+<td><a href="/deliverables/pepper4dec/DEC_D5.1_Robot_Actuator_Migration.pdf">Robot Actuator Migration</a></td>
 <td>CMU-Africa</td>
 <td>31/10/2025</td>
-<td></td>
-<td></td>
+<td>06/05/2026</td>
+<td>15/08/2026</td>
 </tr>
 
 <tr>

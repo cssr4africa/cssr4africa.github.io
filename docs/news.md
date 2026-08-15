@@ -1,5 +1,16 @@
 # News
 
+**15 August 2026**   
+The following Pepper4DEC deliverables are now available:   
+Deliverable D2.2 Robot Behaviour Specification is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D2.2_Robot_Behaviour_Specification.pdf).   
+Deliverable D2.3 Visitor Behaviour Specification is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D2.3_Visitor_Behaviour_Specification.pdf).   
+Deliverable D4.3 Conversation Manager is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D4.3_Conversation_Manager.pdf).   
+Deliverable D5.1 Robot Actuator Migration is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D5.1_Robot_Actuator_Migration.pdf).   
+Version 1.9 of Deliverable D3.1 System Architecture is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf).   
+Version 1.2 of Deliverable D3.2 Software Engineering Standards Manual is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D3.2_Software_Engineering_Standards_Manual.pdf).   
+Version 1.4 of Deliverable D4.1 Robot Sensing Migration is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D4.1_Robot_Sensing_Migration.pdf).   
+Version 1.8 of the UpanziDEC work plan is available [here](https://cssr4africa.github.io/workplan/upanziDEC_Work_Plan.pdf).   
+
 **29 June 2026**   
 Version 2.8 of Deliverable D3.1 System Architecture is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.1.pdf).   
 Version 1.4 of Deliverable D3.5 System Integration and Quality Assurance is available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.5.pdf).   
