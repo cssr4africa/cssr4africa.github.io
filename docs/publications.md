@@ -9,6 +9,9 @@ A. Akinade, Y. Haile, N. Mutangana C. Tucker, and D. Vernon, "Culturally Compete
 
 ## Conference Papers
 
+B. Shimelis Girma, I. Jimoh, Y. Haile, A. Gueye, M. Busogi, and D. Vernon, "CSSR-Nav: Culturally Sensitive Social Robot Navigation Using Open-Source Vision-Language Model and Empirical Cultural Knowledge", submitted to [International Conference on Social Robotics (ICSR) 2026](https://icsr2026.uk/). Available [here](https://cssr4africa.github.io/posters/2026_CSSR-Nav_Culturally_Sensitive_Social_Robot.pdf).  
+
+
 P. Zantou and D. Vernon, "Culturally-Sensitive Human-Robot Interaction: A Case Study with the Pepper Humanoid Robot", Proc. IEEE Africon, Nairobi, Kenya, September, 2023. Preprint available [here](https://cssr4africa.github.io/publications/2023_Zantou_Vernon_Africon.pdf).
 
 

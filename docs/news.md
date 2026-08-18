@@ -1,5 +1,8 @@
 # News
 
+**18 August 2026**   
+Paper submitted: B. Shimelis Girma, I. Jimoh, Y. Haile, A. Gueye, M. Busogi, and D. Vernon, "CSSR-Nav: Culturally Sensitive Social Robot Navigation Using Open-Source Vision-Language Model and Empirical Cultural Knowledge", submitted to [International Conference on Social Robotics (ICSR) 2026](https://icsr2026.uk/); available [here](https://cssr4africa.github.io/posters/2026_CSSR-Nav_Culturally_Sensitive_Social_Robot.pdf).  
+
 **15 August 2026**   
 The following Pepper4DEC deliverables are now available:   
 Deliverable D2.2 Robot Behaviour Specification is available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D2.2_Robot_Behaviour_Specification.pdf).   
