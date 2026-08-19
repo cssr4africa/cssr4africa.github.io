@@ -166,15 +166,6 @@
 </tr>
 
 <tr>
-<td>D3.1</td>
-<td>System Architecture, version 2</td>
-<td>CMU-Africa</td>
-<td>31/12/2025</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
 <td><span style="color:black">D3.2</span></td>
 <td><span style="color:black"><a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D3.2.pdf">Software Engineering Standards Manual</a></span></td>
 <td><span style="color:black">CMU-Africa</span></td>
@@ -610,7 +601,7 @@
 
 <tr>
 <td>D3.1</td>
-<td><a href="/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf">System Architecture</a></td>
+<td><a href="/deliverables/pepper4dec/DEC_D3.1_System_Architecture.pdf">System Architecture, version 2</a></td>
 <td>CMU-Africa</td>
 <td>28/02/2026</td>
 <td>28/02/2026</td>
@@ -619,7 +610,7 @@
 
 <tr>
 <td>D3.2</td>
-<td><a href="/deliverables/pepper4dec/DEC_D3.2_Software_Engineering_Standards_Manual.pdf">Software Engineering Standards Manual</a></td>
+<td><a href="/deliverables/pepper4dec/DEC_D3.2_Software_Engineering_Standards_Manual.pdf">Software Engineering Standards Manual, ROS2 version</a></td>
 <td>CMU-Africa</td>
 <td>15/03/2026</td>
 <td>15/03/2026</td>
@@ -628,7 +619,7 @@
 
 <tr>
 <td>D3.3</td>
-<td>Software Installation Manual</td>
+<td>Software Installation Manual, ROS2 version</td>
 <td>CMU-Africa</td>
 <td>30/06/2026</td>
 <td></td>
