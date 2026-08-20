@@ -493,11 +493,11 @@
 <tr>
 <td><span style="color:black">D8.1</span></td>
 <td><span style="color:black">Progress Report <a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.1.pdf">Period 1</a> <a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.2.pdf">Period 2</a> <a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.3.pdf">Period 3</a> <a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.4.pdf">Period 4</a>
-<a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.5.pdf">Period 5</a> </span> </td>
+<a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.5.pdf">Period 5</a> <a href="https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.6.pdf">Period 6</a> </span> </td>
 <td><span style="color:black">CMU-Africa</span></td>
 <td><span style="color:black">31/12/2023</span></td>
 <td><span style="color:black">31/12/2023</span></td>
-<td><span style="color:black">17/02/2026</span></td>
+<td><span style="color:black">20/08/2026</span></td>
 </tr>
 
 <tr>
