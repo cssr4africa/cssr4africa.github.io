@@ -619,11 +619,11 @@
 
 <tr>
 <td>D3.3</td>
-<td>Software Installation Manual, ROS2 version</td>
+<td><a href="/deliverables/pepper4dec/DEC_D3.3_Software_Installation_Manual_ROS2.pdf">Software Installation Manual, ROS2 version</a></td>
 <td>CMU-Africa</td>
 <td>30/06/2026</td>
-<td></td>
-<td></td>
+<td>04/09/2026</td>
+<td>04/09/2026</td>
 </tr>
 
 <tr>

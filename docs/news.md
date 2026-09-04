@@ -1,5 +1,8 @@
 # News
 
+**04 September 2026**   
+Deliverable D3.3 Software Installation Manual, ROS2 version, is now available [here](https://cssr4africa.github.io/deliverables/pepper4dec/DEC_D3.3_Software_Installation_Manual_ROS2.pdf).  
+
 **20 August 2026**   
 The sixth periodic report for January 2026 - June 2026 is now available [here](https://cssr4africa.github.io/deliverables/CSSR4Africa_Deliverable_D8.1.6.pdf). 
 
